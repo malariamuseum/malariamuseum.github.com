@@ -63,6 +63,7 @@ bower_components
 
 # Output folders
 dist
+dist/feed.xml
 
 # hide the AWS and Rsync credentials file
 aws-credentials.json
