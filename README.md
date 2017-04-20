@@ -15,7 +15,7 @@ $ gulp build [--prod]
 ```
 
 ```sh
-$ gulp deploy
+$ scripts/deploy.sh
 ```
 
 #### Settings
