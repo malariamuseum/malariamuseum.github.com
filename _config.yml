@@ -15,7 +15,7 @@ exclude: ['assets']
 author:
   name: Rohit Goswami
   email: rohit.goswami@aol.com
-  uri: &#39;&#39;
+ # uri: &#39;&#39;
   bio: Blank
   twitter:
   github:
