@@ -2,6 +2,9 @@
 
 > Let&#39;s make malaria history!
 
+# FOSS
+Hosted on **Netlify** with their awesome **Netlify CMS**
+
 ## To get started
 
 ```sh
