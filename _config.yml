@@ -1,52 +1,89 @@
-# Title, decription, tagline and URL for your site
-# Can be used in your theme by calling 'site.title' and so on
-title: MalariaMuseum
-description: Let&#39;s make malaria history!
-url: https://malariamuseum.github.io
+title:            Malaria Museum
+description:      Let's eradicate malaria!
+disqus_shortname: 
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:
 
-# Used so Jekyll outputs the site correctly so Gulp can do what it wants
-source: .tmp/src
-destination: .tmp/dist
-exclude: ['assets']
+# Owner/author information
+owner:
+  name:           Your Name
+  avatar:         avatar.jpg
+  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  email:          you@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:
 
-# Same as the title etc for your site but can instead be
-# called by using 'site.author.name' and so on
-# NOTE: Don't use @ in front of your Twitter username
-author:
-  name: Rohit Goswami
-  email: rohit.goswami@aol.com
- # uri: &#39;&#39;
-  bio: Blank
-  twitter:
-  github:
+# Background image to be tiled on all pages
+background: 
 
-# _config.build.yml overwrites these options when you run `gulp build`
-# Enables future posts (posts with dates in the future) and drafts
-future: true
-show_drafts: true
-# Disables the more accurate related posts for faster generating of the site
-lsi: false
-# Only make the last 10 posts so generating isn't slow
-limit_posts: 10
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
 
-# Permalink structure and pagination options
-permalink: pretty
-paginate: 10
-paginate_path: 'page:num'
-excerpt_separator: ''
-
-# Markdown library and options
-markdown: redcarpet
-redcarpet:
-  extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',
-              'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
-
-# Extending Jekyll
+markdown:    kramdown
 gems:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include: 
+  - .htaccess
+exclude: 
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
