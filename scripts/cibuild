@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+##
+# Color stuff
+##
+NORMAL=$(tput sgr0)
+RED=$(tput setaf 1)
+GREEN=$(tput setaf 2; tput bold)
+YELLOW=$(tput setaf 3)
+SITE_DIR='_site/'
+
+
+function red() {
+    echo "$RED$*$NORMAL"
+}
+
+function green() {
+    echo "$GREEN$*$NORMAL"
+}
+
+function yellow() {
+    echo "$YELLOW$*$NORMAL"
+}
+red '--> Npm stuff..'
+bundle install
+green '--> Jekyll Build.'
+bundle exec jekyll build
+
+#bundle exec htmlproof ./_site
