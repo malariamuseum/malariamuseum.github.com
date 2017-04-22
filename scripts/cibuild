@@ -21,7 +21,7 @@ function green() {
 function yellow() {
     echo "$YELLOW$*$NORMAL"
 }
-red '--> Npm stuff..'
+red '--> Bundle stuff..'
 bundle install
 green '--> Jekyll Build.'
 bundle exec jekyll build
