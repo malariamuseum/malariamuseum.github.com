@@ -7,7 +7,7 @@ excerpt: "A HQ video demonstrating how malaria enters a human via a pregnant mos
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=61
 permalink: /blog/2010/01/25/the-human-part-of-the-malaria-lifecycle/
-image: /wp-content/uploads/2010/01/images3.jpeg
+image: /assets/images/uploads/2010/01/images3.jpeg
 categories:
   - Educational
   - Public Health Awareness

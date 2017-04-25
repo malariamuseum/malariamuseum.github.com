@@ -7,7 +7,7 @@ excerpt: 'It was a troublesome task to get a hold of the book ‘This is Ann’,
 layout: single
 guid: http://malariamuseum.de/?p=360
 permalink: /blog/2011/02/21/this-is-ann-digitally-remastered-reprinted-and-for-sale/
-image: /wp-content/uploads/2011/02/ThisIsAnnCover11.gif
+image: /assets/images/uploads/2011/02/ThisIsAnnCover11.gif
 categories:
   - Books
   - Objects
@@ -23,4 +23,4 @@ The only addition is on the back page where we have added a barcode and some det
 
 No credit is given in the book to the author, Theodore Geisel (Dr. Seuss), though his style is easy to recognise.
 
-<img class="size-full wp-image-361" title="This Is Ann - She's dying to meet you. Dr. Seuss. Malaria." alt="This Is Ann - She's dying to meet you. Dr. Seuss. Malaria." src="http://malariamuseum.de/wp-content/uploads/2011/02/ThisIsAnnCover.gif" width="400" height="672" />This Is Ann &#8211; She&#8217;s dying to meet you. Dr. Seuss. Malaria.
+<img class="size-full wp-image-361" title="This Is Ann - She's dying to meet you. Dr. Seuss. Malaria." alt="This Is Ann - She's dying to meet you. Dr. Seuss. Malaria." src="http://malariamuseum.de/assets/images/uploads/2011/02/ThisIsAnnCover.gif" width="400" height="672" />This Is Ann &#8211; She&#8217;s dying to meet you. Dr. Seuss. Malaria.

@@ -11,7 +11,7 @@ guid: http://www.malariamuseum.de/?p=321
 permalink: /blog/2010/04/18/long-night-of-the-malaria-museum/
 Country:
   - Germany
-image: /wp-content/uploads/2010/04/index1.jpeg
+image: /assets/images/uploads/2010/04/index1.jpeg
 categories:
   - Events
 ---

@@ -7,7 +7,7 @@ excerpt: Official Ministry of Health Billboard advising locals to avoid the trad
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=192
 permalink: /blog/2009/11/11/ministry-of-health-billboard/
-image: /wp-content/uploads/2009/11/sahnotopehpehdokta1-300x22412.jpg
+image: /assets/images/uploads/2009/11/sahnotopehpehdokta1-300x22412.jpg
 categories:
   - Photos and Posters
   - Public Health Awareness
@@ -20,7 +20,7 @@ categories:
 </div>
 
 <div>
-  <strong><a href="http://www.malariamuseum.de/wp-content/uploads/2009/11/sahnotopehpehdokta1.jpg"><img class="size-medium wp-image-244" title="Malaria, Sierra Leone, Olivia Blanchard" alt="" src="http://www.malariamuseum.de/wp-content/uploads/2009/11/sahnotopehpehdokta1-300x224.jpg" width="300" height="224" /></a></strong>
+  <strong><a href="http://www.malariamuseum.de/assets/images/uploads/2009/11/sahnotopehpehdokta1.jpg"><img class="size-medium wp-image-244" title="Malaria, Sierra Leone, Olivia Blanchard" alt="" src="http://www.malariamuseum.de/assets/images/uploads/2009/11/sahnotopehpehdokta1-300x224.jpg" width="300" height="224" /></a></strong>
 </div>
 
 <div>

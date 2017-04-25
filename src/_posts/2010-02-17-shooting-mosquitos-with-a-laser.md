@@ -9,7 +9,7 @@ guid: http://www.malariamuseum.de/?p=280
 permalink: /blog/2010/02/17/shooting-mosquitos-with-a-laser/
 Country:
   - USA
-image: /wp-content/uploads/2010/02/index-1.jpeg
+image: /assets/images/uploads/2010/02/index-1.jpeg
 categories:
   - Malaria Prevention
   - Scientific

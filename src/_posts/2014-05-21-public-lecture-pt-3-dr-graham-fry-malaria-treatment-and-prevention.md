@@ -11,7 +11,7 @@ frutiful_posts_template:
 categories:
   - Uncategorized
 ---
-[<img class="alignnone  wp-image-4361" src="http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-3_Graham-300x174.png" alt="Talks_Pt 3_Graham" width="628" height="364" />](http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-3_Graham.png)
+[<img class="alignnone  wp-image-4361" src="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-3_Graham-300x174.png" alt="Talks_Pt 3_Graham" width="628" height="364" />](http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-3_Graham.png)
 
 _18.30 &#8211; May 22nd_
 

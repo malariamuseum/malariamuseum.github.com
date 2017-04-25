@@ -8,7 +8,7 @@ guid: http://lunch.ie/malariamuseum/?p=150
 permalink: /blog/2009/04/16/malaria-top-trumps/
 Country:
   - Germany
-image: /wp-content/uploads/2009/04/DSC01926-300x22512.jpg
+image: /assets/images/uploads/2009/04/DSC01926-300x22512.jpg
 categories:
   - Photos and Posters
 ---
@@ -21,7 +21,7 @@ The Malaria Museum has been endowed with &#8220;Seuchen Quartett&#8221; &#8230; 
   
   <div>
     <div id="attachment_268" style="width: 310px" class="wp-caption alignnone">
-      <a href="http://www.malariamuseum.de/wp-content/uploads/2009/04/DSC01926.jpg"><img class="size-medium wp-image-268" title="Malaria Top Trumps" alt="Malaria Top Trumps" src="http://www.malariamuseum.de/wp-content/uploads/2009/04/DSC01926-300x225.jpg" width="300" height="225" /></a>
+      <a href="http://www.malariamuseum.de/assets/images/uploads/2009/04/DSC01926.jpg"><img class="size-medium wp-image-268" title="Malaria Top Trumps" alt="Malaria Top Trumps" src="http://www.malariamuseum.de/assets/images/uploads/2009/04/DSC01926-300x225.jpg" width="300" height="225" /></a>
       
       <p class="wp-caption-text">
         Malaria Top Trumps

@@ -7,7 +7,7 @@ excerpt: Amir Attaran’s gadfly nature forced him to take interest in the ‘ro
 layout: single
 guid: http://malariamuseum.de/?p=428
 permalink: /blog/2011/04/12/the-gadfly-and-the-world-bank/
-image: /wp-content/uploads/2011/04/Amir-Attaran.jpg
+image: /assets/images/uploads/2011/04/Amir-Attaran.jpg
 categories:
   - Article
   - Malaria Prevention
@@ -40,4 +40,4 @@ Robert Zoellick, Wolfowitz’s replacement as president, announced to the world 
 
 Attaran, in his article, urged the World Bank to hand over the money it had to fight malaria to organisations who were specialised in the area, such as the Global Fund. However the World Bank continues to be involved in the fight against malaria, and criticism of its involvement persists. After all, when you’re sick, you don’t call your banker.
   
-[<img class="alignnone size-thumbnail wp-image-434" title="Amir Attaran" alt="" src="http://malariamuseum.de/wp-content/uploads/2011/03/Amir-Attaran-e1302596629185-150x150.jpg" width="150" height="150" />](http://malariamuseum.de/wp-content/uploads/2011/03/Amir-Attaran-e1302596629185.jpg)
+[<img class="alignnone size-thumbnail wp-image-434" title="Amir Attaran" alt="" src="http://malariamuseum.de/assets/images/uploads/2011/03/Amir-Attaran-e1302596629185-150x150.jpg" width="150" height="150" />](http://malariamuseum.de/assets/images/uploads/2011/03/Amir-Attaran-e1302596629185.jpg)

@@ -7,7 +7,7 @@ excerpt: "In this Disney Studio's clip, the viewers are taught about the ways in
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=21
 permalink: /blog/2010/01/08/walt-disney-the-winged-scourge/
-image: /wp-content/uploads/2010/01/images21.jpeg
+image: /assets/images/uploads/2010/01/images21.jpeg
 categories:
   - Video
 ---

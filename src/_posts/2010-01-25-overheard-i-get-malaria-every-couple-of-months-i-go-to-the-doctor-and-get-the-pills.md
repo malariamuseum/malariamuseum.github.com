@@ -6,7 +6,7 @@ author: Marco Herbst
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=103
 permalink: /blog/2010/01/25/overheard-i-get-malaria-every-couple-of-months-i-go-to-the-doctor-and-get-the-pills/
-image: /wp-content/uploads/2010/01/6a011168879638970c0120a68eec95970c-320wi3.jpg
+image: /assets/images/uploads/2010/01/6a011168879638970c0120a68eec95970c-320wi3.jpg
 categories:
   - Overheard
 tags:

@@ -9,7 +9,7 @@ guid: http://lunch.ie/malariamuseum/?p=124
 permalink: /blog/2009/12/19/map-of-malaria-deaths-in-the-usa-1870/
 Country:
   - USA
-image: /wp-content/uploads/2009/12/MalariaUS187012.png
+image: /assets/images/uploads/2009/12/MalariaUS187012.png
 categories:
   - Educational
 ---
@@ -19,7 +19,7 @@ categories:
 
 <div>
   <div id="attachment_239" style="width: 691px" class="wp-caption alignnone">
-    <a href="http://www.malariamuseum.de/wp-content/uploads/2009/12/MalariaUS1870.png"><img class="size-full wp-image-239" title="Map of malaria deaths in the USA, 1870" alt="Map of malaria deaths in the USA, 1870" src="http://www.malariamuseum.de/wp-content/uploads/2009/12/MalariaUS1870.png" width="681" height="900" /></a>
+    <a href="http://www.malariamuseum.de/assets/images/uploads/2009/12/MalariaUS1870.png"><img class="size-full wp-image-239" title="Map of malaria deaths in the USA, 1870" alt="Map of malaria deaths in the USA, 1870" src="http://www.malariamuseum.de/assets/images/uploads/2009/12/MalariaUS1870.png" width="681" height="900" /></a>
     
     <p class="wp-caption-text">
       Map of malaria deaths in the USA, 1870

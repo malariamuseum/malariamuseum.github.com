@@ -7,7 +7,7 @@ excerpt: 'Nice video showing how the US troops got rid of Malaria. In the beginn
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=59
 permalink: /blog/2010/01/25/private-snafu-its-murder-she-says/
-image: /wp-content/uploads/2010/01/index41.jpeg
+image: /assets/images/uploads/2010/01/index41.jpeg
 categories:
   - Public Health Awareness
   - Video

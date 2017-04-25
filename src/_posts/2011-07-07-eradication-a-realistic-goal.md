@@ -6,11 +6,11 @@ author: Dr. Sam McManus
 layout: single
 guid: http://malariamuseum.de/?p=714
 permalink: /blog/2011/07/07/eradication-a-realistic-goal/
-image: /wp-content/uploads/2011/07/zab29122.jpg
+image: /assets/images/uploads/2011/07/zab29122.jpg
 categories:
   - Uncategorized
 ---
-[<img class="alignnone size-medium wp-image-719" title="zab291" alt="" src="http://malariamuseum.de/wp-content/uploads/2011/07/zab2911-300x236.jpg" width="300" height="236" />](http://malariamuseum.de/wp-content/uploads/2011/07/zab2911.jpg)
+[<img class="alignnone size-medium wp-image-719" title="zab291" alt="" src="http://malariamuseum.de/assets/images/uploads/2011/07/zab2911-300x236.jpg" width="300" height="236" />](http://malariamuseum.de/assets/images/uploads/2011/07/zab2911.jpg)
 
 _This week Sam McManus gives us an assessment of the prospects for malaria eradication in an interesting feature article._
 

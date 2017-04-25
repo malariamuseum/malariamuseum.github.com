@@ -11,6 +11,6 @@ frutiful_posts_template:
 categories:
   - Uncategorized
 ---
-[<img class="alignnone  wp-image-4301" src="http://malariamuseum.com/wp-content/uploads/2014/05/The-Rum-Diaries-300x173.png" alt="The Rum Diaries" width="477" height="275" />](http://malariamuseum.com/wp-content/uploads/2014/05/The-Rum-Diaries.png)
+[<img class="alignnone  wp-image-4301" src="http://malariamuseum.com/assets/images/uploads/2014/05/The-Rum-Diaries-300x173.png" alt="The Rum Diaries" width="477" height="275" />](http://malariamuseum.com/assets/images/uploads/2014/05/The-Rum-Diaries.png)
 
 <http://therumdiaries.net/2014/05/13/did-you-know-dublin-has-a-malaria-museum/#more-1949>

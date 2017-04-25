@@ -9,7 +9,7 @@ guid: http://malariamuseum.de/?p=420
 permalink: /blog/2011/03/31/dr-ross-and-the-cunning-seed/
 Country:
   - India
-image: /wp-content/uploads/2011/03/Ross_Ronald_1857-19321.jpg
+image: /assets/images/uploads/2011/03/Ross_Ronald_1857-19321.jpg
 categories:
   - Article
   - Biography
@@ -75,7 +75,7 @@ Thy victory, O Grave?”
 Author: Dr. Sam McManus
 
 <div id="attachment_426" style="width: 160px" class="wp-caption alignnone">
-  <a href="http://malariamuseum.de/wp-content/uploads/2011/03/Ross_Ronald_1857-1932.jpg"><img class="size-thumbnail wp-image-426" title="Ross_Ronald_1857-1932" alt="" src="http://malariamuseum.de/wp-content/uploads/2011/03/Ross_Ronald_1857-1932-150x150.jpg" width="150" height="150" /></a>
+  <a href="http://malariamuseum.de/assets/images/uploads/2011/03/Ross_Ronald_1857-1932.jpg"><img class="size-thumbnail wp-image-426" title="Ross_Ronald_1857-1932" alt="" src="http://malariamuseum.de/assets/images/uploads/2011/03/Ross_Ronald_1857-1932-150x150.jpg" width="150" height="150" /></a>
   
   <p class="wp-caption-text">
     Sir Ronald Ross

@@ -8,11 +8,11 @@ guid: http://www.malariamuseum.com/?p=1074
 permalink: /blog/2011/10/25/a-visit-to-the-malaria-hearland/
 Country:
   - Malawi
-image: /wp-content/uploads/2013/04/malawi_204-copy.jpg
+image: /assets/images/uploads/2013/04/malawi_204-copy.jpg
 categories:
   - In the field
 ---
-[<img class="aligncenter size-full wp-image-1096" title="malawi_204 copy" alt="" src="http://www.malariamuseum.com/wp-content/uploads/2011/10/malawi_204-copy.jpg" width="682" height="680" />](http://www.malariamuseum.com/wp-content/uploads/2011/10/malawi_204-copy.jpg)“Do you have malaria in your country?”
+[<img class="aligncenter size-full wp-image-1096" title="malawi_204 copy" alt="" src="http://www.malariamuseum.com/assets/images/uploads/2011/10/malawi_204-copy.jpg" width="682" height="680" />](http://www.malariamuseum.com/assets/images/uploads/2011/10/malawi_204-copy.jpg)“Do you have malaria in your country?”
 
 “no”
 

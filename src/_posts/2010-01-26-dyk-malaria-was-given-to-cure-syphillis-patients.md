@@ -7,7 +7,7 @@ excerpt: 'An ugly disease ‘tertiary syphilis’ used to be cured with the help
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=120
 permalink: /blog/2010/01/26/dyk-malaria-was-given-to-cure-syphillis-patients/
-image: /wp-content/uploads/2010/01/index5.jpeg
+image: /assets/images/uploads/2010/01/index5.jpeg
 categories:
   - Cures
   - Did you know?

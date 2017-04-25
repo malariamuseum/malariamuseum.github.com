@@ -9,7 +9,7 @@ guid: http://www.malariamuseum.de/?p=329
 permalink: /blog/2010/06/01/survival-tv-bbc-doc-on-atemesenin-uganda/
 Country:
   - Uganda
-image: /wp-content/uploads/2010/06/220px-Artemisinin_skeletal.svg_1.png
+image: /assets/images/uploads/2010/06/220px-Artemisinin_skeletal.svg_1.png
 categories:
   - Malaria Prevention
   - Video

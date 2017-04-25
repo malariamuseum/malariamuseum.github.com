@@ -9,7 +9,7 @@ guid: http://www.malariamuseum.de/?p=331
 permalink: /blog/2010/06/02/ig-nobel-prize-for-feet-cheese-malaria-study/
 Country:
   - The Netherlands
-image: /wp-content/uploads/2010/06/k34692061.jpg
+image: /assets/images/uploads/2010/06/k34692061.jpg
 categories:
   - Did you know?
   - News

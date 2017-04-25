@@ -26,7 +26,7 @@ categories:
 </div>
 
 <div style="color: #222222;">
-  <a href="http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-1_Vincent1.jpg"><img class="alignnone  wp-image-4121" src="http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-1_Vincent1-300x175.jpg" alt="Talks_Pt 1_Vincent" width="470" height="274" srcset="http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-1_Vincent1-300x175.jpg 300w, http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-1_Vincent1.jpg 960w" sizes="(max-width: 470px) 100vw, 470px" /></a>
+  <a href="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1.jpg"><img class="alignnone  wp-image-4121" src="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1-300x175.jpg" alt="Talks_Pt 1_Vincent" width="470" height="274" srcset="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1-300x175.jpg 300w, http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1.jpg 960w" sizes="(max-width: 470px) 100vw, 470px" /></a>
 </div>
 
 <div style="color: #222222;">

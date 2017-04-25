@@ -14,7 +14,7 @@ categories:
 ## The topic for 2014 is vector-borne diseases
 
 <p style="text-align: left;">
-  World Health Day is celebrated on 7 April every year to mark the anniversary of the founding of WHO in 1948. Each year a theme is selected that highlights a priority area of public health. The Day provides an opportunity for individuals in every community to get involved in activities that can lead to better health.<a href="http://malariamuseum.com/wp-content/uploads/2014/04/DISEASESpix_ok.jpg"><img class="size-full wp-image-2601 alignright" alt="DISEASESpix_ok" src="http://malariamuseum.com/wp-content/uploads/2014/04/DISEASESpix_ok.jpg" width="149" height="227" /></a>
+  World Health Day is celebrated on 7 April every year to mark the anniversary of the founding of WHO in 1948. Each year a theme is selected that highlights a priority area of public health. The Day provides an opportunity for individuals in every community to get involved in activities that can lead to better health.<a href="http://malariamuseum.com/assets/images/uploads/2014/04/DISEASESpix_ok.jpg"><img class="size-full wp-image-2601 alignright" alt="DISEASESpix_ok" src="http://malariamuseum.com/assets/images/uploads/2014/04/DISEASESpix_ok.jpg" width="149" height="227" /></a>
 </p>
 
 <p style="text-align: left;">

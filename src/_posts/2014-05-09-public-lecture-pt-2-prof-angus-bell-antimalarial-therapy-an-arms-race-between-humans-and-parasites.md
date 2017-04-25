@@ -11,7 +11,7 @@ frutiful_posts_template:
 categories:
   - Uncategorized
 ---
-<img class="alignnone  wp-image-4221" src="http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-2_Angus-300x175.jpg" alt="Talks_Pt 2_Angus" width="577" height="336" srcset="http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-2_Angus-300x175.jpg 300w, http://malariamuseum.com/wp-content/uploads/2014/05/Talks_Pt-2_Angus.jpg 960w" sizes="(max-width: 577px) 100vw, 577px" />
+<img class="alignnone  wp-image-4221" src="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-2_Angus-300x175.jpg" alt="Talks_Pt 2_Angus" width="577" height="336" srcset="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-2_Angus-300x175.jpg 300w, http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-2_Angus.jpg 960w" sizes="(max-width: 577px) 100vw, 577px" />
 
 &nbsp;
 

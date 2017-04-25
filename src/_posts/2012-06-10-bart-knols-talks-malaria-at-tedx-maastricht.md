@@ -8,7 +8,7 @@ guid: http://www.malariamuseum.com/?p=1108
 permalink: /blog/2012/06/10/bart-knols-talks-malaria-at-tedx-maastricht/
 Country:
   - The Netherlands
-image: /wp-content/uploads/2012/06/bartknols1.jpg
+image: /assets/images/uploads/2012/06/bartknols1.jpg
 categories:
   - Cures
   - Malaria Prevention

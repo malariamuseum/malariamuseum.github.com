@@ -9,7 +9,7 @@ guid: http://lunch.ie/malariamuseum/?p=198
 permalink: /blog/2009/11/21/la-malaria-e-la-sua-storia/
 Country:
   - Italy
-image: /wp-content/uploads/2009/11/DSC025792.jpg
+image: /assets/images/uploads/2009/11/DSC025792.jpg
 categories:
   - 'Musuems &amp; Exhibitions'
 ---

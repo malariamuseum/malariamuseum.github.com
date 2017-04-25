@@ -18,7 +18,7 @@ FRIDAY, APRIL 25, 2014
 </p>
 
 <p dir="ltr">
-  <strong><a href="http://malariamuseum.com/wp-content/uploads/2014/04/NEON.jpg"><img class="size-medium wp-image-3061 alignright" alt="NEON" src="http://malariamuseum.com/wp-content/uploads/2014/04/NEON-300x225.jpg" width="300" height="225" srcset="http://malariamuseum.com/wp-content/uploads/2014/04/NEON-300x225.jpg 300w, http://malariamuseum.com/wp-content/uploads/2014/04/NEON.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a></strong>
+  <strong><a href="http://malariamuseum.com/assets/images/uploads/2014/04/NEON.jpg"><img class="size-medium wp-image-3061 alignright" alt="NEON" src="http://malariamuseum.com/assets/images/uploads/2014/04/NEON-300x225.jpg" width="300" height="225" srcset="http://malariamuseum.com/assets/images/uploads/2014/04/NEON-300x225.jpg 300w, http://malariamuseum.com/assets/images/uploads/2014/04/NEON.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a></strong>
 </p>
 
 <p dir="ltr">

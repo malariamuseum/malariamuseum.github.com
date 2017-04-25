@@ -9,7 +9,7 @@ guid: http://malariamuseum.de/?p=340
 permalink: /blog/2010/12/06/this-is-ann-a-long-time-coming/
 Country:
   - USA
-image: /wp-content/uploads/2010/12/images1.jpeg
+image: /assets/images/uploads/2010/12/images1.jpeg
 categories:
   - Books
   - Educational

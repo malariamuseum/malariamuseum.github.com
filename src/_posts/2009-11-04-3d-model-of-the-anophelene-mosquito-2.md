@@ -7,7 +7,7 @@ excerpt: 'A high resolution three dimensional model of Anophelene Mosquito. '
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=190
 permalink: /blog/2009/11/04/3d-model-of-the-anophelene-mosquito-2/
-image: /wp-content/uploads/2009/11/Mosquito22.jpg
+image: /assets/images/uploads/2009/11/Mosquito22.jpg
 categories:
   - Educational
   - Scientific

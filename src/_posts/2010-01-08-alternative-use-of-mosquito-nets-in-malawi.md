@@ -7,7 +7,7 @@ excerpt: 'Mosquito nets have been used for several purposes apart from its prima
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=5
 permalink: /blog/2010/01/08/alternative-use-of-mosquito-nets-in-malawi/
-image: /wp-content/uploads/2010/01/Malaria-Bed-Nets-Malawi-300x22511.jpg
+image: /assets/images/uploads/2010/01/Malaria-Bed-Nets-Malawi-300x22511.jpg
 categories:
   - Alternative uses for bednets
 ---
@@ -18,7 +18,7 @@ I have heard of an exhibition by UNICEF(?) of photos of other alternative uses f
 Has anyone got any more information?
 
 <div id="attachment_6" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://52.48.52.117/wp-content/uploads/2010/01/Malaria-Bed-Nets-Malawi.jpg"><img class="size-medium wp-image-6 " title="Drying fish on a bednet in Malawi" src="http://52.48.52.117/wp-content/uploads/2010/01/Malaria-Bed-Nets-Malawi-300x225.jpg" alt="Drying fish on a bednet in Malawi" width="300" height="225" /></a>
+  <a href="http://52.48.52.117/assets/images/uploads/2010/01/Malaria-Bed-Nets-Malawi.jpg"><img class="size-medium wp-image-6 " title="Drying fish on a bednet in Malawi" src="http://52.48.52.117/assets/images/uploads/2010/01/Malaria-Bed-Nets-Malawi-300x225.jpg" alt="Drying fish on a bednet in Malawi" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Drying fish on a bednet in Malawi

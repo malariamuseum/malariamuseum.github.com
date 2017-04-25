@@ -6,7 +6,7 @@ author: Marco Herbst
 layout: single
 guid: http://www.malariamuseum.com/?p=870
 permalink: /blog/2011/07/24/help-us-choose-a-new-logo/
-image: /wp-content/uploads/2011/07/making-decision2.gif
+image: /assets/images/uploads/2011/07/making-decision2.gif
 categories:
   - Events
   - News

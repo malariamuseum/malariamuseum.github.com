@@ -8,7 +8,7 @@ guid: http://www.malariamuseum.com/?p=1082
 permalink: /blog/2011/11/29/new-discovery-gives-hope-for-a-viable-malaria-vaccine/
 Country:
   - UK
-image: /wp-content/uploads/2013/04/vaccineshot.jpeg
+image: /assets/images/uploads/2013/04/vaccineshot.jpeg
 categories:
   - Uncategorized
 ---

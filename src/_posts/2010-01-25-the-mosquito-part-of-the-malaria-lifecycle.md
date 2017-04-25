@@ -7,7 +7,7 @@ excerpt: 'A Great video showing the mosquito part of malaria life cycle. When pr
 layout: single
 guid: http://lunch.ie/malariamuseum/?p=63
 permalink: /blog/2010/01/25/the-mosquito-part-of-the-malaria-lifecycle/
-image: /wp-content/uploads/2010/01/index31.jpeg
+image: /assets/images/uploads/2010/01/index31.jpeg
 categories:
   - Educational
   - Public Health Awareness
