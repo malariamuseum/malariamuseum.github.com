@@ -1,24 +1,40 @@
 {
-  "name": "hpstr-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/hpstr-jekyll-theme/",
+  "name": "MalariaMuseum",
+  "version": "0.0.0",
+  "description": "Let's eraticate Malaria!",
+  "homepage": "https://malariamuseum.netlify.com",
+  "author": {
+    "name": "Rohit Goswami",
+    "email": "rohit.goswami@aol.com"
+  },
+  "scripts": {
+    "setup": "bundle install && yarn"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/hpstr-jekyll-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
-  },
-  "engines": {
-    "node": ">= 0.10.0"
+    "url": "git+https://github.com/MalariaMuseum/malariamuseum.github.io.git"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-jshint": "~0.6.3",
-    "grunt-contrib-uglify": "~0.2.2",
-    "grunt-contrib-watch": "~0.5.2",
-    "grunt-contrib-imagemin": "~0.2.0",
-    "grunt-svgmin": "~0.2.0"
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "browser-sync": "^2.2.0",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^1.5.1"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "jquery": "^3.2.1",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.4",
+    "webpack2-stream-watch": "^3.2.2"
   }
 }

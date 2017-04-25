@@ -1,89 +1,225 @@
-title:            Malaria Museum
-description:      Let's eradicate malaria!
-disqus_shortname: 
-reading_time:     true
-words_per_minute: 200
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:
+# Title, decription, tagline and URL for your site
+# Can be used in your theme by calling 'site.title' and so on
+title: MalariaMuseum
+description: Let's eradicate malaria!
 
-# Owner/author information
-owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:
+# Used so Jekyll outputs the site correctly so Gulp can do what it wants
+source: src
+destination: dist
+#exclude: ['assets']
 
-# Background image to be tiled on all pages
-background: 
+# Timezone of site
+#timezone: America/Los_Angeles
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+#avatar: _assets/images/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      false  # publish future dated posts --  true, false (default) 
-highlighter: rouge
-markdown:    kramdown
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-feed
-sass:
-  sass_dir: _sass
-  style: compressed
+# Site Settings
+locale                   : "en"
+title_separator          : "-"
+#name                     : "Your Name"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : MalariaMuseum/malariamuseum.github.io
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : staticman # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : dark # "light" (default), "dark"
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+# Staticman comments (full configuration in staticman.yml)
+staticman:
+  branch: "master"
 
-# Amount of post to show on home page
-paginate: 5
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+
+# Site Author
+author:
+  name             : "Marco Herbst"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Marco is an entrepreneur born in Ireland, currently living in Berlin. As founder of the Malaria Museum, he has been collecting items and interviewing experts in the field of Malaria since 2008.It is his intention to bring together adequate talent, finance and enthusiasm to establish a museum that will live up to and surpass the aims of the mission statement."
+  location         : "Somewhere"
+  email            : rohit.goswami@aol.com
+ # uri              : https://webpack2jekyll.netlify.com
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : HaoZeke
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+# Same as the title etc for your site but can instead be
+# called by using 'site.author.name' and so on
+# NOTE: Don't use @ in front of your Twitter username
+
+
+# _config.build.yml overwrites these options when you run `gulp build`
+# Enables future posts (posts with dates in the future) and drafts
+future: true
+show_drafts: true
+# Disables the more accurate related posts for faster generating of the site
+lsi: false
+# Only make the last 10 posts so generating isn't slow
+#limit_posts: 10
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+# Use Mailchimp
+mailchimp: true
+
+# Cloudinary
+#cloudinary:
+#  cloud_name: 
+#  verbose: true
+#  presets:
+#    default:
+#      min_width: 320
+#      max_width: 1600
+#      fallback_max_width: 800
+#      steps: 5
+#      sizes: "(min-width: 50rem) 50rem, 90vw"
+
+# Excerpt Settings
+excerpt_separator: "\n\n"
+
+# Markdown library and options
+markdown: kramdown
+
+# Markdown Processing
 kramdown:
   input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-include: 
+# Paginate v2 stuff replacing jekyll-archives
+autopages:
+  enabled: true
+  categories:
+    enabled: true
+    layouts:
+      - "archive-taxonomy.html"
+    title: ":category"
+    permalink: "/categories/:category"
+  collections:
+    enabled: false
+  tags:
+    enabled: true
+    layouts:
+      - "archive-taxonomy.html"
+    title: ":tag" # :tag is replaced by the tag name
+    permalink: "/tag/:tag"
+
+#redcarpet:
+# extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',
+#             'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
+highlighter: rouge
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: 
+
+# Extending Jekyll
+gems:
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-seo-tag
+#  - jekyll-cloudinary
+
+#pages: /src/_pages
+
+# Reading Files
+include:
   - .htaccess
-exclude: 
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
+  - src/_pages
+  - 'src/_pages/*.*'
+
+# Exclude these files from your production _site
+exclude:
   - Gemfile
-  - Gruntfile.js
+  - Gemfile.lock
   - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+  - README.md
+  - CNAME
+  - css
+  - scripts
+  - assets
+
+# These are made by gulp so DON'T override
+keep_files:
+  - scripts
+  - css
+  - assets
+
+  # Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments:  true
+      share: true
+      related: true
