@@ -1,0 +1,198 @@
+// Archive Edits
+
+.archive__item {
+  display: block !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  page-break-inside: avoid;
+}
+.list {
+  ul {
+    list-style-type: square;
+  }
+
+  article.item {
+    padding-bottom: 3em;
+    //Instead of the line below you could use @include column-break-inside($value)
+    column-break-inside: avoid;
+    //Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+    transition: all .3s ease-in-out;
+
+    a {
+      margin-right: 0 !important;
+      display: flex;
+      flex-direction: column;
+      color: inherit;
+      text-decoration: none;
+      border: .25em solid #333;
+      background-color: white;
+      //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+      box-shadow: 0 .5em 0 .5em  #333;
+      //Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+      transition: all .3s ease-in-out;
+
+      &:hover {
+        //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+        box-shadow: 0 .75em 0 .75em  #333;
+        
+        .item__title:before {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
+@media(min-width: 48em) {
+  .item__content {
+    flex-basis: 75%;
+    padding-right: 2em;
+  }
+  .item__image {
+    flex-basis: 45%;
+    img {
+      display: none;
+    }
+  }
+  .tag__list {
+    //Instead of the line below you could use @include column-count($count)
+    column-count: 2;
+  }
+
+  .list article.item a {
+    flex-direction: row;
+    align-items: stretch;
+  }
+}
+
+.item__content {
+  font-size: 0.8em;
+  padding: 1em;
+}
+
+.item__title {
+  position: relative;
+  margin: 0 0 1em;
+  font-size: 1.2em;
+  line-height: 1.25;
+
+  &:before {
+    position: absolute;
+    bottom: -.625em;
+    content: '';
+    height: .125em;
+    width: 2em;
+    background-color: #333;
+    //Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+    transition: all .3s ease-in-out;
+  }
+}
+
+.item__meta {
+  font-size: .8em;
+  .archive__item-time {
+    margin-left: 1em;
+    white-space: nowrap;
+  }
+  .comment__count {
+    margin-left: 1em;
+    white-space: nowrap;
+  }
+}
+.item__image {
+  position: relative;
+  order: 2;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  //Instead of the line below you could use @include backface-visibility($visibility)
+  backface-visibility: hidden;
+  &:before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: '';
+    background: #4c4c4c;
+    opacity: 0;
+    //Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+    transition: all .3s ease-in-out;
+  }
+  img {
+    width: 100%;
+    border: none;
+    //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+    box-shadow: initial;
+    &:hover {
+      //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+      box-shadow: initial;
+    }
+  }
+}
+@media(max-width: 48em) {
+  .item__image {
+    margin-bottom: 1em;
+    order: -1;
+  }
+}
+.tag__list {
+  list-style: none !important;
+  padding-left: 0;
+  li {
+    margin-bottom: 0;
+  }
+}
+@media(min-width: 64em) {
+  .tag__list {
+    //Instead of the line below you could use @include column-count($count)
+    column-count: 3;
+  }
+}
+.tag__list--inline {
+  margin-top: 0;
+  margin-bottom: 2em;
+  padding: 0;
+  list-style: none;
+  li {
+    display: inline-block;
+    &:after {
+      margin-right: .25em;
+      content: "\00a0/";
+    }
+    &:last-child::after {
+      content: none;
+    }
+  }
+}
+.nav-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+.nav-list__title {
+  font-family: 'Menlo', 'Consolas', 'Monaco', 'Courier New', 'Courier', 'monospace';
+  font-size: .8em;
+  font-weight: normal;
+}
+.archive {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+@media(min-width: 37.5em) {
+  .archive {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
+@media(min-width: 90em) {
+  .archive {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+}
+
+.item:not(:last-child) {
+  padding-bottom: 3em;
+}
