@@ -1,8 +1,8 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
+  <a class="site-title" href="{{ '/' | absolute_url }}"><img class="siteLogo" src="/assets/images/logo/MM_Web_logo1.png" /></a>
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
