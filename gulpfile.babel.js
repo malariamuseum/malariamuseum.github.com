@@ -122,7 +122,7 @@ gulp.task('js', () => {
 
 // Optimise images + copy any other assets
 gulp.task('imagemin', () => {
- // return gulp.src('src/_assets/**/*')
- //   .pipe($.imagemin())
- //   .pipe(gulp.dest('dist/assets'));
+  return gulp.src('src/_assets/**/*')
+    .pipe($.imagemin())
+    .pipe(gulp.dest('dist/assets'));
 });
