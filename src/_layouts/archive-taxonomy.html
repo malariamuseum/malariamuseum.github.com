@@ -1,6 +1,8 @@
 ---
 layout: default
 author_profile: false
+pagination:
+  enabled: true
 ---
 
 <div id="main" role="main">
@@ -8,8 +10,18 @@ author_profile: false
 
   <div class="archive">
     <h1 class="page__title">{{ page.title }}</h1>
-    {% for post in page.posts %}
+    {% for post in paginator.posts %}
       {% include archive-single.html %}
     {% endfor %}
+    {% if paginator.total_pages > 1 %}
+  <div class="pager">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | absolute_url }}" class="btn">&larr; Newer Posts</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | absolute_url }}" class="btn">Older Posts &rarr;</a>
+    {% endif %}
+  </div>
+{% endif %}
   </div>
 </div>
