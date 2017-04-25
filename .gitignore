@@ -2,7 +2,6 @@ src/_drafts/*
 dist
 .publish
 src/assets
-src/css
 src/graveyard
 node_modules
 src/scripts
