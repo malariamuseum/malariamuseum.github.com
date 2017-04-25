@@ -16,7 +16,7 @@ gulp.task('serve', ['browser-sync'], () => {
   gulp.watch(['src/_sass/**/*.scss','src/css/*.scss'], ['sass']);
   gulp.watch(['src/_js/**/*.js'], ['js']);
   gulp.watch(['src/_assets/**/*'], ['imagemin']);
-  gulp.watch(['src/graveyard/**/*', 'src/_data/*', 'src/*.html', 'src/*.md', 'src/_plugins/**/*.*', 'src/_layouts/**/*.*', 'src/_includes/**/*.*', 'src/_posts/**/*.*', 'src/_drafts/**/*.*', 'src/_pages/**/*.*'], ['build:reload']);
+  gulp.watch(['src/graveyard/**/*', 'src/_data/*', 'src/*.html', 'src/*.md', 'src/_plugins/**/*.*', 'src/_layouts/*', 'src/_includes/**/*.*', 'src/_posts/**/*.*', 'src/_drafts/**/*.*', 'src/_pages/**/*.*'], ['build:reload']);
 });
 
 // Builds Jekyll site (including drafts)
@@ -122,7 +122,7 @@ gulp.task('js', () => {
 
 // Optimise images + copy any other assets
 gulp.task('imagemin', () => {
-  return gulp.src('src/_assets/**/*')
-    .pipe($.imagemin())
-    .pipe(gulp.dest('dist/assets'));
+ // return gulp.src('src/_assets/**/*')
+ //   .pipe($.imagemin())
+ //   .pipe(gulp.dest('dist/assets'));
 });
