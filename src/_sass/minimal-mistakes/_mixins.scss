@@ -71,3 +71,17 @@
     transform: translate(0, -50%);
   }
 }
+
+@mixin opacity($value){
+  $IEValue: $value*100;
+  opacity: $value;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity="+$IEValue+")";
+  filter: alpha(opacity=$IEValue);
+}
+
+@mixin transition($transition...) {
+    -moz-transition:    $transition;
+    -o-transition:      $transition;
+    -webkit-transition: $transition;
+    transition:         $transition;
+}
