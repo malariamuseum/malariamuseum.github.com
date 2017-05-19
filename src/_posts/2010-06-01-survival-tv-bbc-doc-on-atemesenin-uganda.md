@@ -1,15 +1,14 @@
 ---
-id: 329
 title: 'Survival TV &#8211; BBC Doc on Atemesenin, Uganda'
 date: 2010-06-01T13:41:02+00:00
 author: Marco Herbst
 excerpt: Uganda is one of those countries which has the maximum number of people affected by malaria, more than 12million got affected in 2007 and forty seven thousand out of these passed away. This BBC documentary shows how Artemesenin is produced and distributed in Uganda.
 layout: single
-guid: http://www.malariamuseum.de/?p=329
 permalink: /blog/2010/06/01/survival-tv-bbc-doc-on-atemesenin-uganda/
 Country:
   - Uganda
-image: /assets/images/uploads/2010/06/220px-Artemisinin_skeletal.svg_1.png
+header:
+  teaser: /assets/images/uploads/2010/06/Artemisinin_skeletal.png
 categories:
   - Malaria Prevention
   - Video

@@ -1,12 +1,11 @@
 ---
-id: 1018
 title: 'How the Malaria Museum began&#8230;.'
 date: 2011-09-26T20:56:53+00:00
 author: Dr. Sam McManus
 layout: single
-guid: http://www.malariamuseum.com/?p=1018
 permalink: /blog/2011/09/26/how-the-malaria-museum-began/
-image: /assets/images/uploads/2011/09/mosquitolarvae2.jpg
+header:
+  teaser: /assets/images/uploads/2011/09/mosquitolarvae.jpg
 categories:
   - Story of the Museum
 ---

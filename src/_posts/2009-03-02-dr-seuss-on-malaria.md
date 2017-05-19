@@ -1,13 +1,12 @@
 ---
-id: 141
 title: Dr Seuss on Malaria
 date: 2009-03-02T14:21:18+00:00
 author: Marco Herbst
 excerpt: 'Malaria Museum has received a copy (of a copy) of Doctor Seuss “This is Ann”. We are looking for an original version. '
 layout: single
-guid: http://lunch.ie/malariamuseum/?p=141
 permalink: /blog/2009/03/02/dr-seuss-on-malaria/
-image: /assets/images/uploads/2009/03/drseuss-300x20612.gif
+header:
+  teaser: /assets/images/uploads/2009/03/drseuss.gif
 categories:
   - Books
   - Public Health Awareness
@@ -27,7 +26,7 @@ The Malaria Museum has been given a copy (of a copy) of Dr. Seuss &#8220;This is
 
 <div>
   <div id="attachment_274" style="width: 310px" class="wp-caption alignnone">
-    <a href="http://www.malariamuseum.de/assets/images/uploads/2009/03/drseuss.gif"><img class="size-medium wp-image-274" title="Dr Seuss on Malaria" alt="Dr Seuss on Malaria" src="http://www.malariamuseum.de/assets/images/uploads/2009/03/drseuss-300x206.gif" width="300" height="206" /></a>
+    <a href="{{ base }}/assets/images/uploads/2009/03/drseuss.gif"><img class="size-medium wp-image-274" title="Dr Seuss on Malaria" alt="Dr Seuss on Malaria" src="{{ base }}/assets/images/uploads/2009/03/drseuss.gif" width="300" height="206" /></a>
     
     <p class="wp-caption-text">
       Dr Seuss on Malaria

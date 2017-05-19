@@ -1,13 +1,12 @@
 ---
-id: 428
 title: The Gadfly and the World Bank
 date: 2011-04-12T08:24:19+00:00
 author: Dr. Sam McManus
 excerpt: Amir Attaran’s gadfly nature forced him to take interest in the ‘roll back malaria campaign’ of World Bank. His interest resulted in publishing of an article in 2005 which proved some great discrepancies in facts provided by the bank. As a result the bank’s president looked into the matter and made changes in campaign, ultimately making things slightly better.
 layout: single
-guid: http://malariamuseum.de/?p=428
 permalink: /blog/2011/04/12/the-gadfly-and-the-world-bank/
-image: /assets/images/uploads/2011/04/Amir-Attaran.jpg
+header:
+  teaser: /assets/images/uploads/2011/04/Amir-Attaran.jpg
 categories:
   - Article
   - Malaria Prevention
@@ -40,4 +39,4 @@ Robert Zoellick, Wolfowitz’s replacement as president, announced to the world 
 
 Attaran, in his article, urged the World Bank to hand over the money it had to fight malaria to organisations who were specialised in the area, such as the Global Fund. However the World Bank continues to be involved in the fight against malaria, and criticism of its involvement persists. After all, when you’re sick, you don’t call your banker.
   
-[<img class="alignnone size-thumbnail wp-image-434" title="Amir Attaran" alt="" src="http://malariamuseum.de/assets/images/uploads/2011/03/Amir-Attaran-e1302596629185-150x150.jpg" width="150" height="150" />](http://malariamuseum.de/assets/images/uploads/2011/03/Amir-Attaran-e1302596629185.jpg)
+[<img class="alignnone size-thumbnail wp-image-434" title="Amir Attaran" alt="" src="{{ base }}/assets/images/uploads/2011/03/Amir-Attaran.jpg" width="150" height="150" />]({{ base }}/assets/images/uploads/2011/03/Amir-Attaran.jpg)

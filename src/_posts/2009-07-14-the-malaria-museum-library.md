@@ -1,12 +1,11 @@
 ---
-id: 163
 title: The Malaria Museum Library
 date: 2009-07-14T14:48:40+00:00
 author: Marco Herbst
 layout: single
-guid: http://lunch.ie/malariamuseum/?p=163
 permalink: /blog/2009/07/14/the-malaria-museum-library/
-image: /assets/images/uploads/2009/07/TRINITY-COLLEGE-LIBRARY-DUB2.jpg
+header:
+  teaser: /assets/images/uploads/2009/07/TRINITY-COLLEGE-LIBRARY-DUB.jpg
 categories:
   - Books
   - Educational

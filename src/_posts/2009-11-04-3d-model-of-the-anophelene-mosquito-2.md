@@ -1,13 +1,12 @@
 ---
-id: 190
 title: 3D Model of the Anophelene Mosquito
 date: 2009-11-04T15:11:03+00:00
 author: Marco Herbst
 excerpt: 'A high resolution three dimensional model of Anophelene Mosquito. '
 layout: single
-guid: http://lunch.ie/malariamuseum/?p=190
 permalink: /blog/2009/11/04/3d-model-of-the-anophelene-mosquito-2/
-image: /assets/images/uploads/2009/11/Mosquito22.jpg
+header:
+  teaser: /assets/images/uploads/2009/11/Mosquito2.jpg
 categories:
   - Educational
   - Scientific

@@ -1,16 +1,11 @@
 ---
-id: 4401
 title: 'Public Lecture &#8211; Pt 4 &#8211; Dr. Rosalyn Tamming &#8211; THURSDAY 5th, June,  at Malaria Museum.'
 date: 2014-06-03T15:43:57+00:00
 author: Vanessa Breen
 layout: single
 header:
-  image: /assets/images/uploads/2014/06/CONCERN_talk_FB_2.png
   teaser: /assets/images/uploads/2014/06/CONCERN_talk_FB_2.png
-guid: http://malariamuseum.com/?p=4401
 permalink: /blog/2014/06/03/public-lecture-pt-4-dr-rosalyn-tamming/
-frutiful_posts_template:
-  - "3"
 categories:
   - Uncategorized
 ---

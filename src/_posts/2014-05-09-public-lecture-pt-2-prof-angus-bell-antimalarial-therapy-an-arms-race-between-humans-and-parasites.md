@@ -1,17 +1,15 @@
 ---
-id: 4211
 title: 'Public Lecture- Pt 2 &#8211; Prof. Angus Bell, &#8220;Antimalarial therapy: an arms race between humans and parasites.&#8221;'
 date: 2014-05-09T13:04:34+00:00
 author: Vanessa Breen
 layout: single
-guid: http://malariamuseum.com/?p=4211
 permalink: /blog/2014/05/09/public-lecture-pt-2-prof-angus-bell-antimalarial-therapy-an-arms-race-between-humans-and-parasites/
-frutiful_posts_template:
-  - "3"
+header:
+  teaser: /assets/images/uploads/2014/05/Talks_Pt-2_Angus.jpg
 categories:
   - Uncategorized
 ---
-<img class="alignnone  wp-image-4221" src="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-2_Angus-300x175.jpg" alt="Talks_Pt 2_Angus" width="577" height="336" srcset="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-2_Angus-300x175.jpg 300w, http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-2_Angus.jpg 960w" sizes="(max-width: 577px) 100vw, 577px" />
+<img class="alignnone" src="{{ base }}/assets/images/uploads/2014/05/Talks_Pt-2_Angus.jpg" alt="Talks_Pt 2_Angus" width="577" height="336" />
 
 &nbsp;
 

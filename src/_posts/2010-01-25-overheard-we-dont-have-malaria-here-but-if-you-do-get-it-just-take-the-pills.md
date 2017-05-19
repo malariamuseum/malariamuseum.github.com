@@ -1,12 +1,11 @@
 ---
-id: 99
 title: 'Overheard: We don&#8217;t have malaria here&#8230;but if you do get it just take the pills!'
 date: 2010-01-25T20:58:52+00:00
 author: Marco Herbst
 layout: single
-guid: http://lunch.ie/malariamuseum/?p=99
 permalink: /blog/2010/01/25/overheard-we-dont-have-malaria-here-but-if-you-do-get-it-just-take-the-pills/
-image: /assets/images/uploads/2010/01/6a011168879638970c0120a68eec95970c-320wi3.jpg
+header:
+  teaser: /assets/images/uploads/2010/01/dog.jpg
 categories:
   - Overheard
 tags:

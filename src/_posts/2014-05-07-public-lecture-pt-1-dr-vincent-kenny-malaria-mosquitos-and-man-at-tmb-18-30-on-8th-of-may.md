@@ -1,13 +1,11 @@
 ---
-id: 4071
 title: 'Public lecture &#8211; Pt 1 &#8211; Dr. Vincent Kenny &#8211;  &#8216;Malaria, Mosquitos and Man&#8217; at TMB, 18.30 on 8th of May.'
 date: 2014-05-07T08:57:25+00:00
 author: Vanessa Breen
 layout: single
-guid: http://malariamuseum.com/?p=4071
 permalink: /blog/2014/05/07/public-lecture-pt-1-dr-vincent-kenny-malaria-mosquitos-and-man-at-tmb-18-30-on-8th-of-may/
-frutiful_posts_template:
-  - "3"
+header:
+  teaser: assets/images/uploads/2014/05/Talks_Pt-1_Vincent.jpg
 categories:
   - Uncategorized
 ---
@@ -26,7 +24,7 @@ categories:
 </div>
 
 <div style="color: #222222;">
-  <a href="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1.jpg"><img class="alignnone  wp-image-4121" src="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1-300x175.jpg" alt="Talks_Pt 1_Vincent" width="470" height="274" srcset="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1-300x175.jpg 300w, http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-1_Vincent1.jpg 960w" sizes="(max-width: 470px) 100vw, 470px" /></a>
+  <a href="{{ base }}/assets/images/uploads/2014/05/Talks_Pt-1_Vincent.jpg"><img class="alignnone" src="{{ base }}/assets/images/uploads/2014/05/Talks_Pt-1_Vincent.jpg" alt="Talks_Pt 1_Vincent" /></a>
 </div>
 
 <div style="color: #222222;">

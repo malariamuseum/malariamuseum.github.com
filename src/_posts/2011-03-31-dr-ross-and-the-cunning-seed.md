@@ -1,15 +1,14 @@
 ---
-id: 420
 title: Dr. Ross and the cunning seed
 date: 2011-03-31T13:11:53+00:00
 author: Dr. Sam McManus
-excerpt: 'Ronald Ross was a weak student of medicine, but when he came to sub-continent he got interested in mystery of malaria transmission, which consequently earned him the Nobel Prize for medicine. He did lots of experiments and found that malaria was transmitted via pregnant anopheles mosquito. '
+excerpt: 'Ronald Ross was a weak student of medicine, but when he came to sub-continent he got interested in mystery of malaria transmission, which consequently earned him the Nobel Prize for medicine. He did lots of experiments and found that malaria was transmitted via pregnant anopheles mosquito.'
 layout: single
-guid: http://malariamuseum.de/?p=420
 permalink: /blog/2011/03/31/dr-ross-and-the-cunning-seed/
 Country:
   - India
-image: /assets/images/uploads/2011/03/Ross_Ronald_1857-19321.jpg
+header:
+  teaser: /assets/images/uploads/2011/03/Ross_Ronald_1857-1932.jpg
 categories:
   - Article
   - Biography
@@ -75,7 +74,7 @@ Thy victory, O Grave?”
 Author: Dr. Sam McManus
 
 <div id="attachment_426" style="width: 160px" class="wp-caption alignnone">
-  <a href="http://malariamuseum.de/assets/images/uploads/2011/03/Ross_Ronald_1857-1932.jpg"><img class="size-thumbnail wp-image-426" title="Ross_Ronald_1857-1932" alt="" src="http://malariamuseum.de/assets/images/uploads/2011/03/Ross_Ronald_1857-1932-150x150.jpg" width="150" height="150" /></a>
+  <a href="{{ base }}/assets/images/uploads/2011/03/Ross_Ronald_1857-1932.jpg"><img class="size-thumbnail wp-image-426" title="Ross_Ronald_1857-1932" alt="" src="{{ base }}/assets/images/uploads/2011/03/Ross_Ronald_1857-1932.jpg" width="150" height="150" /></a>
   
   <p class="wp-caption-text">
     Sir Ronald Ross

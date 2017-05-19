@@ -1,17 +1,15 @@
 ---
-id: 4351
 title: 'Public Lecture &#8211; Pt 3 &#8211; Dr. Graham Fry &#8220;Malaria: Treatment and Prevention&#8221;'
 date: 2014-05-21T20:16:14+00:00
 author: Vanessa Breen
 layout: single
-guid: http://malariamuseum.com/?p=4351
 permalink: /blog/2014/05/21/public-lecture-pt-3-dr-graham-fry-malaria-treatment-and-prevention/
-frutiful_posts_template:
-  - "3"
+header:
+  teaser: /assets/images/uploads/2014/05/Talks_Pt-3_Graham.png
 categories:
   - Uncategorized
 ---
-[<img class="alignnone  wp-image-4361" src="http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-3_Graham-300x174.png" alt="Talks_Pt 3_Graham" width="628" height="364" />](http://malariamuseum.com/assets/images/uploads/2014/05/Talks_Pt-3_Graham.png)
+[<img class="alignnone" src="{{ base }}/assets/images/uploads/2014/05/Talks_Pt-3_Graham.png" alt="Talks_Pt 3_Graham" width="628" height="364" />]({{ base }}/assets/images/uploads/2014/05/Talks_Pt-3_Graham.png)
 
 _18.30 &#8211; May 22nd_
 
@@ -19,7 +17,7 @@ _Public Lecture- Pt 3 &#8211; Dr. Graham Fry_
 
 _&#8220;Malaria: Treatment and Prevention&#8221;_ 
 
-Following a full house at last weeks talk with Prof. Angus Bell at<a style="color: #f37021;" href="http://malariamuseum.com/" target="_blank"> Malaria Museum</a>, we are delighted to introduce the third in our** series of public lectures** given by Medical Director of TMB, **Dr. Graham Fry **who will discuss** &#8220;Malaria: Treatment and Prevention&#8221;**.
+Following a full house at last weeks talk with Prof. Angus Bell at<a style="color: #f37021;" href="{{ base }}/" target="_blank"> Malaria Museum</a>, we are delighted to introduce the third in our** series of public lectures** given by Medical Director of TMB, **Dr. Graham Fry **who will discuss** &#8220;Malaria: Treatment and Prevention&#8221;**.
 
 <div style="color: #333333;">
 </div>

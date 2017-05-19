@@ -1,15 +1,14 @@
 ---
-id: 340
 title: 'Dr. Seuss, This is Ann &#8211; a long time coming &#8230;'
 date: 2010-12-06T17:00:28+00:00
 author: Marco Herbst
 excerpt: 'After a period of two years and a number of favors, Malaria Museum is a proud owner of the famous book of Doctor Seuss “This is Ann”. Getting the book was not easy on the Museum budget, but after getting help of some well wishers, we have a great copy with us. '
 layout: single
-guid: http://malariamuseum.de/?p=340
 permalink: /blog/2010/12/06/this-is-ann-a-long-time-coming/
 Country:
   - USA
-image: /assets/images/uploads/2010/12/images1.jpeg
+header:
+  teaser: /assets/images/uploads/2010/12/images.jpeg
 categories:
   - Books
   - Educational
@@ -27,3 +26,5 @@ It hasn&#8217;t been easy on the Museum budget, but finally, with the further he
 Thank you to those involved.
 
 Check it out:
+
+<embed width="400" height="267" type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" flashvars="host=picasaweb.google.com&amp;noautoplay=1&amp;hl=de&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fmarco.herbst%2Falbumid%2F5547601956347934673%3Falt%3Drss%26kind%3Dphoto%26hl%3Dde" pluginspage="http://www.macromedia.com/go/getflashplayer">
