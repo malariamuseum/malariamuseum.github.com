@@ -1,11 +1,11 @@
 <article class="item">
+  <span class="date published"><time datetime="{{ post.date | date: "%d-%m" }}">{{ post.date | date: "%d %B" }}</time></span>
+  {% assign readtime = post.content | strip_html | number_of_words | divided_by:site.words_per_minute %}
   <a href="{{ site.url }}{{ post.url }}">
     <div class="item__content">
         <h3 class="item__title">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</h3>
       <div class="item__meta">
         {% unless post.work %}
-          <span class="date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
-          {% assign readtime = post.content | strip_html | number_of_words | divided_by:site.words_per_minute %}
           <span class="archive__item-time"><svg class="icon" width="20px" height="20px"><use xlink:href="#icon-stopwatch"></use></svg>&nbsp;{% if readtime <= 1 %}1{% else %}{{ readtime }}{% endif %} min read</span>
         {% else %}
           <span><svg class="icon" width="20px" height="20px"><use xlink:href="#icon-folder"></use></svg>&nbsp;{{ post.work | markdownify | remove: '<p>' | remove: '</p>' }}</span>
