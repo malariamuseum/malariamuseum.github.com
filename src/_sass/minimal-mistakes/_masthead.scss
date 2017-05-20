@@ -44,6 +44,13 @@
   width: 100%;
   padding-top: 2em;
 
+  button {
+    display: block;
+    margin-left: .8em;
+    min-height: 2rem;
+    min-width: 2rem;
+  }
+
   .site-nav {
     margin-left: 0;
 
@@ -75,9 +82,9 @@
 .siteLogo {
   margin-right: -2.5em;
   max-width: 20rem;
-  @include breakpoint(0 $small/2) {
-    max-width: 8rem;
+  @include breakpoint(0 $small) {
+    max-width: 10em;
     padding-top: 1.5em;
-    margin-right: -2.2em;
+    margin-right: -.2em;
     }
 }
