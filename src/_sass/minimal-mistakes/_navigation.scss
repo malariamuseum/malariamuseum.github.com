@@ -57,8 +57,8 @@
    ========================================================================== */
 
 .pagination {
-  @include full();
-  @include clearfix();
+  @include full;
+  @include clearfix;
   margin-top: 1em;
   padding-top: 1em;
 
