@@ -44,28 +44,7 @@
     }
   }
 }
-@media(min-width: 48em) {
-  .item__content {
-    flex-basis: 75%;
-    padding-right: 2em;
-  }
-  .item__image {
-    flex-basis: 45%;
-    img {
-      display: none;
-    }
-  }
 
-  .tag__list {
-    //Instead of the line below you could use @include column-count($count)
-    column-count: 2;
-  }
-
-  .list article.item a {
-    flex-direction: row;
-    align-items: stretch;
-  }
-}
 
 .item__content {
   font-size: 0.8em;
@@ -122,6 +101,9 @@
   background-position: center;
   //Instead of the line below you could use @include backface-visibility($visibility)
   backface-visibility: hidden;
+  max-width: span(10 of 12);
+  @include centerer(true, false);
+
   &:before {
     position: absolute;
     top: 0;
@@ -218,5 +200,10 @@
   padding-bottom: 3em;
 }
 
+
+.homeList {
+  @include centerer(true, false);
+  width: span(7 of 12);
+}
 
 @import "lazyyoutube";
