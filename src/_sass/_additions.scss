@@ -26,7 +26,7 @@
       flex-direction: column;
       color: inherit;
       text-decoration: none;
-      border: .2em solid darken($border-color, 80%);
+      border: 1px solid #d6d6d6;
       background-color: white;
       //Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
      // box-shadow: 0 .5em 0 .5em  #333;
