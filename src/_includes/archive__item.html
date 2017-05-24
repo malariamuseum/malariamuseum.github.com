@@ -1,5 +1,5 @@
 <article class="item">
-  <span class="date published"><time datetime="{{ post.date | date: "%d-%m" }}">{{ post.date | date: "%d <br> %B" }}</time></span>
+  <span class="date published"><time class="day" datetime="{{ post.date | date: "%d" }}">{{ post.date | date: "%d" }}</time> <time class="month" datetime="{{ post.date | date: "-%m" }}">{{ post.date | date: "%b" }}</time></span>
   {% assign readtime = post.content | strip_html | number_of_words | divided_by:site.words_per_minute %}
   <a href="{{ site.url }}{{ post.url }}">
     <div class="item__content">

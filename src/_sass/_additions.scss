@@ -75,15 +75,32 @@
 }
 
 .date {
+  align-items: center;
   background: $primary-color;
   color: #fff;
+  display: flex;
+  flex-direction: column;
   float: left;
   font-size: .8em;
-  font-weight: bold;
   height: 54px;
+  justify-content: center;
   margin: 0;
-  text-align: center;
   width: 54px;
+}
+
+.day {
+  font-size: 1.2em;
+  font-weight: 900;
+  height: 1.15em;
+  text-align: center;
+  vertical-align: baseline;
+  width: 54px;
+}
+
+.month {
+  font-size: .85em;
+  height: 1.3em;
+  text-transform: uppercase;
 }
 
 .item__meta {
@@ -141,6 +158,7 @@
 
   .date {
     font-size: 1em;
+    float: none;
   }
 }
 
