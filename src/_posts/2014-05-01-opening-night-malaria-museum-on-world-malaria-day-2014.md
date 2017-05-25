@@ -5,12 +5,16 @@ author: Vanessa Breen
 layout: single
 permalink: /blog/2014/05/01/opening-night-malaria-museum-on-world-malaria-day-2014/
 header:
-  teaser: /assets/images/uploads/2014/05/14.jpg
+  teaser: /assets/images/uploads/2014/05/4.jpg
 categories:
   - Uncategorized
 tags:
   - '#malariamuseum'
 gallery:
+  - url: /assets/images/uploads/2014/05/4.jpg
+    image_path: /assets/images/uploads/2014/05/4.jpg
+    alt: "Image 0"
+    title: "Image 0 title caption"
   - url: /assets/images/uploads/2014/05/1.jpg
     image_path: /assets/images/uploads/2014/05/1.jpg
     alt: "Image 1"
@@ -19,10 +23,18 @@ gallery:
     image_path: /assets/images/uploads/2014/05/101.jpg
     alt: "Image 2"
     title: "Image 2 title caption"
+  - url: /assets/images/uploads/2014/05/2.jpg
+    image_path: /assets/images/uploads/2014/05/2.jpg
+    alt: "Image 2.5"
+    title: "Image 2.5 title caption"
   - url: /assets/images/uploads/2014/05/121.jpg
     image_path: /assets/images/uploads/2014/05/121.jpg
     alt: "Image 3"
     title: "Image 3 title caption"
+  - url: /assets/images/uploads/2014/05/3.jpg
+    image_path: /assets/images/uploads/2014/05/3.jpg
+    alt: "Image 3.5"
+    title: "Image 3.5 title caption"
   - url: /assets/images/uploads/2014/05/13.jpg
     image_path: /assets/images/uploads/2014/05/13.jpg
     alt: "Image 4"
@@ -59,6 +71,10 @@ gallery:
     image_path: /assets/images/uploads/2014/05/21.1.jpg
     alt: "Image 12"
     title: "Image 12 title caption"
+  - url: /assets/images/uploads/2014/05/21.2.jpg
+    image_path: /assets/images/uploads/2014/05/21.2.jpg
+    alt: "Image 12.5"
+    title: "Image 12.5 title caption"
   - url: /assets/images/uploads/2014/05/22.2.jpg
     image_path: /assets/images/uploads/2014/05/22.2.jpg
     alt: "Image 13"
@@ -255,6 +271,10 @@ gallery:
     image_path: /assets/images/uploads/2014/05/81.jpg
     alt: "Image 61"
     title: "Image 61 title caption"
+  - url: /assets/images/uploads/2014/05/22.1.jpg
+    image_path: /assets/images/uploads/2014/05/22.1.jpg
+    alt: "Image 62"
+    title: "Image 62 title caption"
 ---
 **Malaria Museum &#8211; Let’s Make Malaria History!**
 
