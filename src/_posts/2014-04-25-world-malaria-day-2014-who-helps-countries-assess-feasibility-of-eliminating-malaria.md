@@ -5,7 +5,7 @@ author: Vanessa Breen
 layout: single
 permalink: /blog/2014/04/25/world-malaria-day-2014-who-helps-countries-assess-feasibility-of-eliminating-malaria/
 header:
-  teaser: assets/images/uploads/2014/04/Malaria-Day.jpg
+  teaser: assets/images/uploads/2014/04/Malaria-Day.png
 categories:
   - Uncategorized
 ---

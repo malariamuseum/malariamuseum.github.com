@@ -7,7 +7,7 @@ permalink: /blog/2011/10/25/a-visit-to-the-malaria-hearland/
 Country:
   - Malawi
 header:
-  teaser: /assets/images/uploads/2013/04/malawi.jpg
+  teaser: /assets/images/uploads/2011/10/malawi.jpg
 categories:
   - In the field
 ---

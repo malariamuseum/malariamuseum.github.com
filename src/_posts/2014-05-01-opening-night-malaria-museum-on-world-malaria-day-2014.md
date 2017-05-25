@@ -4,6 +4,8 @@ date: 2014-05-01T11:06:04+00:00
 author: Vanessa Breen
 layout: single
 permalink: /blog/2014/05/01/opening-night-malaria-museum-on-world-malaria-day-2014/
+header:
+  teaser: /assets/images/uploads/2014/05/14.jpg
 categories:
   - Uncategorized
 tags:
@@ -11,16 +13,248 @@ tags:
 gallery:
   - url: /assets/images/uploads/2014/05/1.jpg
     image_path: /assets/images/uploads/2014/05/1.jpg
-    alt: "placeholder image 1"
+    alt: "Image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - url: /assets/images/uploads/2014/05/101.jpg
+    image_path: /assets/images/uploads/2014/05/101.jpg
+    alt: "Image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/uploads/2014/05/121.jpg
+    image_path: /assets/images/uploads/2014/05/121.jpg
+    alt: "Image 3"
     title: "Image 3 title caption"
+  - url: /assets/images/uploads/2014/05/13.jpg
+    image_path: /assets/images/uploads/2014/05/13.jpg
+    alt: "Image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/uploads/2014/05/14.jpg
+    image_path: /assets/images/uploads/2014/05/14.jpg
+    alt: "Image 5"
+    title: "Image 5 title caption"
+  - url: /assets/images/uploads/2014/05/15.jpg
+    image_path: /assets/images/uploads/2014/05/15.jpg
+    alt: "Image 6"
+    title: "Image 6 title caption"
+  - url: /assets/images/uploads/2014/05/16.jpg
+    image_path: /assets/images/uploads/2014/05/16.jpg
+    alt: "Image 7"
+    title: "Image 7 title caption"
+  - url: /assets/images/uploads/2014/05/17.jpg
+    image_path: /assets/images/uploads/2014/05/17.jpg
+    alt: "Image 8"
+    title: "Image 8 title caption"
+  - url: /assets/images/uploads/2014/05/18.jpg
+    image_path: /assets/images/uploads/2014/05/18.jpg
+    alt: "Image 9"
+    title: "Image 9 title caption"
+  - url: /assets/images/uploads/2014/05/19.jpg
+    image_path: /assets/images/uploads/2014/05/19.jpg
+    alt: "Image 10"
+    title: "Image 10 title caption"
+  - url: /assets/images/uploads/2014/05/20.jpg
+    image_path: /assets/images/uploads/2014/05/20.jpg
+    alt: "Image 11"
+    title: "Image 11 title caption"
+  - url: /assets/images/uploads/2014/05/21.1.jpg
+    image_path: /assets/images/uploads/2014/05/21.1.jpg
+    alt: "Image 12"
+    title: "Image 12 title caption"
+  - url: /assets/images/uploads/2014/05/22.2.jpg
+    image_path: /assets/images/uploads/2014/05/22.2.jpg
+    alt: "Image 13"
+    title: "Image 13 title caption"
+  - url: /assets/images/uploads/2014/05/22.3.jpg
+    image_path: /assets/images/uploads/2014/05/22.3.jpg
+    alt: "Image 14"
+    title: "Image 14 title caption"
+  - url: /assets/images/uploads/2014/05/22.4.jpg
+    image_path: /assets/images/uploads/2014/05/22.4.jpg
+    alt: "Image 15"
+    title: "Image 15 title caption"
+  - url: /assets/images/uploads/2014/05/22.41.jpg
+    image_path: /assets/images/uploads/2014/05/22.41.jpg
+    alt: "Image 16"
+    title: "Image 16 title caption"
+  - url: /assets/images/uploads/2014/05/23.jpg
+    image_path: /assets/images/uploads/2014/05/23.jpg
+    alt: "Image 17"
+    title: "Image 17 title caption"
+  - url: /assets/images/uploads/2014/05/33.jpg
+    image_path: /assets/images/uploads/2014/05/33.jpg
+    alt: "Image 18"
+    title: "Image 18 title caption"
+  - url: /assets/images/uploads/2014/05/24.jpg
+    image_path: /assets/images/uploads/2014/05/24.jpg
+    alt: "Image 19"
+    title: "Image 19 title caption"
+  - url: /assets/images/uploads/2014/05/25.jpg
+    image_path: /assets/images/uploads/2014/05/25.jpg
+    alt: "Image 20"
+    title: "Image 20 title caption"
+  - url: /assets/images/uploads/2014/05/26.jpg
+    image_path: /assets/images/uploads/2014/05/26.jpg
+    alt: "Image 21"
+    title: "Image 21 title caption"
+  - url: /assets/images/uploads/2014/05/27.jpg
+    image_path: /assets/images/uploads/2014/05/27.jpg
+    alt: "Image 22"
+    title: "Image 22 title caption"
+  - url: /assets/images/uploads/2014/05/28.jpg
+    image_path: /assets/images/uploads/2014/05/28.jpg
+    alt: "Image 23"
+    title: "Image 23 title caption"
+  - url: /assets/images/uploads/2014/05/29.jpg
+    image_path: /assets/images/uploads/2014/05/29.jpg
+    alt: "Image 24"
+    title: "Image 24 title caption"
+  - url: /assets/images/uploads/2014/05/34.jpg
+    image_path: /assets/images/uploads/2014/05/34.jpg
+    alt: "Image 25"
+    title: "Image 25 title caption"
+  - url: /assets/images/uploads/2014/05/31.jpg
+    image_path: /assets/images/uploads/2014/05/31.jpg
+    alt: "Image 26"
+    title: "Image 26 title caption"
+  - url: /assets/images/uploads/2014/05/32.jpg
+    image_path: /assets/images/uploads/2014/05/32.jpg
+    alt: "Image 27"
+    title: "Image 27 title caption"
+  - url: /assets/images/uploads/2014/05/35.jpg
+    image_path: /assets/images/uploads/2014/05/35.jpg
+    alt: "Image 28"
+    title: "Image 28 title caption"
+  - url: /assets/images/uploads/2014/05/36.jpg
+    image_path: /assets/images/uploads/2014/05/36.jpg
+    alt: "Image 29"
+    title: "Image 29 title caption"
+  - url: /assets/images/uploads/2014/05/37.jpg
+    image_path: /assets/images/uploads/2014/05/37.jpg
+    alt: "Image 30"
+    title: "Image 30 title caption"
+  - url: /assets/images/uploads/2014/05/38.jpg
+    image_path: /assets/images/uploads/2014/05/38.jpg
+    alt: "Image 31"
+    title: "Image 31 title caption"
+  - url: /assets/images/uploads/2014/05/39.jpg
+    image_path: /assets/images/uploads/2014/05/39.jpg
+    alt: "Image 32"
+    title: "Image 32 title caption"
+  - url: /assets/images/uploads/2014/05/40.jpg
+    image_path: /assets/images/uploads/2014/05/40.jpg
+    alt: "Image 33"
+    title: "Image 33 title caption"
+  - url: /assets/images/uploads/2014/05/44.jpg
+    image_path: /assets/images/uploads/2014/05/44.jpg
+    alt: "Image 34"
+    title: "Image 34 title caption"
+  - url: /assets/images/uploads/2014/05/45.jpg
+    image_path: /assets/images/uploads/2014/05/45.jpg
+    alt: "Image 35"
+    title: "Image 35 title caption"
+  - url: /assets/images/uploads/2014/05/46.jpg
+    image_path: /assets/images/uploads/2014/05/46.jpg
+    alt: "Image 36"
+    title: "Image 36 title caption"
+  - url: /assets/images/uploads/2014/05/47.jpg
+    image_path: /assets/images/uploads/2014/05/47.jpg
+    alt: "Image 37"
+    title: "Image 37 title caption"
+  - url: /assets/images/uploads/2014/05/48.jpg
+    image_path: /assets/images/uploads/2014/05/48.jpg
+    alt: "Image 38"
+    title: "Image 38 title caption"
+  - url: /assets/images/uploads/2014/05/50.jpg
+    image_path: /assets/images/uploads/2014/05/50.jpg
+    alt: "Image 39"
+    title: "Image 39 title caption"
+  - url: /assets/images/uploads/2014/05/51.jpg
+    image_path: /assets/images/uploads/2014/05/51.jpg
+    alt: "Image 40"
+    title: "Image 40 title caption"
+  - url: /assets/images/uploads/2014/05/52.jpg
+    image_path: /assets/images/uploads/2014/05/52.jpg
+    alt: "Image 41"
+    title: "Image 41 title caption"
+  - url: /assets/images/uploads/2014/05/53.jpg
+    image_path: /assets/images/uploads/2014/05/53.jpg
+    alt: "Image 42"
+    title: "Image 42 title caption"
+  - url: /assets/images/uploads/2014/05/54.jpg
+    image_path: /assets/images/uploads/2014/05/54.jpg
+    alt: "Image 43"
+    title: "Image 43 title caption"
+  - url: /assets/images/uploads/2014/05/55.jpg
+    image_path: /assets/images/uploads/2014/05/55.jpg
+    alt: "Image 44"
+    title: "Image 44 title caption"
+  - url: /assets/images/uploads/2014/05/60.jpg
+    image_path: /assets/images/uploads/2014/05/60.jpg
+    alt: "Image 45"
+    title: "Image 45 title caption"
+  - url: /assets/images/uploads/2014/05/58.jpg
+    image_path: /assets/images/uploads/2014/05/58.jpg
+    alt: "Image 46"
+    title: "Image 46 title caption"
+  - url: /assets/images/uploads/2014/05/59.jpg
+    image_path: /assets/images/uploads/2014/05/59.jpg
+    alt: "Image 47"
+    title: "Image 47 title caption"
+  - url: /assets/images/uploads/2014/05/62.jpg
+    image_path: /assets/images/uploads/2014/05/62.jpg
+    alt: "Image 48"
+    title: "Image 48 title caption"
+  - url: /assets/images/uploads/2014/05/63.jpg
+    image_path: /assets/images/uploads/2014/05/63.jpg
+    alt: "Image 49"
+    title: "Image 49 title caption"
+  - url: /assets/images/uploads/2014/05/64.jpg
+    image_path: /assets/images/uploads/2014/05/64.jpg
+    alt: "Image 50"
+    title: "Image 50 title caption"
+  - url: /assets/images/uploads/2014/05/65.jpg
+    image_path: /assets/images/uploads/2014/05/65.jpg
+    alt: "Image 51"
+    title: "Image 51 title caption"
+  - url: /assets/images/uploads/2014/05/66.jpg
+    image_path: /assets/images/uploads/2014/05/66.jpg
+    alt: "Image 52"
+    title: "Image 52 title caption"
+  - url: /assets/images/uploads/2014/05/67.jpg
+    image_path: /assets/images/uploads/2014/05/67.jpg
+    alt: "Image 53"
+    title: "Image 53 title caption"
+  - url: /assets/images/uploads/2014/05/68.jpg
+    image_path: /assets/images/uploads/2014/05/68.jpg
+    alt: "Image 54"
+    title: "Image 54 title caption"
+  - url: /assets/images/uploads/2014/05/69.jpg
+    image_path: /assets/images/uploads/2014/05/69.jpg
+    alt: "Image 55"
+    title: "Image 55 title caption"
+  - url: /assets/images/uploads/2014/05/70.jpg
+    image_path: /assets/images/uploads/2014/05/70.jpg
+    alt: "Image 56"
+    title: "Image 56 title caption"
+  - url: /assets/images/uploads/2014/05/71.jpg
+    image_path: /assets/images/uploads/2014/05/71.jpg
+    alt: "Image 57"
+    title: "Image 57 title caption"
+  - url: /assets/images/uploads/2014/05/5.jpg
+    image_path: /assets/images/uploads/2014/05/5.jpg
+    alt: "Image 58"
+    title: "Image 58 title caption"
+  - url: /assets/images/uploads/2014/05/61.jpg
+    image_path: /assets/images/uploads/2014/05/61.jpg
+    alt: "Image 59"
+    title: "Image 59 title caption"
+  - url: /assets/images/uploads/2014/05/72.jpg
+    image_path: /assets/images/uploads/2014/05/72.jpg
+    alt: "Image 60"
+    title: "Image 60 title caption"
+  - url: /assets/images/uploads/2014/05/81.jpg
+    image_path: /assets/images/uploads/2014/05/81.jpg
+    alt: "Image 61"
+    title: "Image 61 title caption"
 ---
 **Malaria Museum &#8211; Let’s Make Malaria History!**
 
@@ -28,87 +262,7 @@ Opening night at the Malaria Museum was a huge success, with three times the nu
 
 Next week we are excited to launch a series of public lectures given by Trinity professors who are specialist in the field of malaria, continuing to generate awareness about the fight to eradicate malaria. All times will be listed on our website and facebook page.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
-[<img src="{{ base }}/assets/images/uploads/2014/05/1.jpg" alt="1"/>]({{ base }}/assets/images/uploads/2014/05/1.jpg){: alignnone}
-
-[<img class="alignnone  wp-image-3931" src="{{ base }}/assets/images/uploads/2014/05/21-300x200.jpg" alt="2" />]({{ base }}/assets/images/uploads/2014/05/101.jpg)
-
-[<img class="alignnone  wp-image-4001" src="{{ base }}/assets/images/uploads/2014/05/42-300x207.jpg" alt="4" width="335" height="231" srcset="{{ base }}/assets/images/uploads/2014/05/42-300x207.jpg 300w, {{ base }}/assets/images/uploads/2014/05/42-1024x708.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/42.jpg 1562w" sizes="(max-width: 335px) 100vw, 335px" /><img class="alignnone  wp-image-3321" src="{{ base }}/assets/images/uploads/2014/05/121-300x200.jpg" alt="12" width="335" height="223" srcset="{{ base }}/assets/images/uploads/2014/05/121-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/121-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/121.jpg 1600w" sizes="(max-width: 335px) 100vw, 335px" />]({{ base }}/assets/images/uploads/2014/05/121.jpg)
-
-[<img class="alignnone  wp-image-3301" src="{{ base }}/assets/images/uploads/2014/05/91-300x200.jpg" alt="9" width="332" height="221" srcset="{{ base }}/assets/images/uploads/2014/05/91-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/91-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/91.jpg 1600w" sizes="(max-width: 332px) 100vw, 332px" /> <img class="alignnone  wp-image-3331" src="{{ base }}/assets/images/uploads/2014/05/13-300x200.jpg" alt="13" width="332" height="221" srcset="{{ base }}/assets/images/uploads/2014/05/13-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/13-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/13.jpg 1600w" sizes="(max-width: 332px) 100vw, 332px" />]({{ base }}/assets/images/uploads/2014/05/13.jpg)
-
-[<img class="alignnone  wp-image-3341" src="{{ base }}/assets/images/uploads/2014/05/14-300x200.jpg" alt="14" width="326" height="217" srcset="{{ base }}/assets/images/uploads/2014/05/14-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/14-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/14.jpg 1600w" sizes="(max-width: 326px) 100vw, 326px" />]({{ base }}/assets/images/uploads/2014/05/14.jpg)
-
-[<img class="alignnone  wp-image-3351" src="{{ base }}/assets/images/uploads/2014/05/15-300x200.jpg" alt="15" width="327" height="218" srcset="{{ base }}/assets/images/uploads/2014/05/15-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/15-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/15.jpg 1600w" sizes="(max-width: 327px) 100vw, 327px" />]({{ base }}/assets/images/uploads/2014/05/15.jpg)
-
-[<img class="alignnone  wp-image-3361" src="{{ base }}/assets/images/uploads/2014/05/16-300x264.jpg" alt="16" width="319" height="281" srcset="{{ base }}/assets/images/uploads/2014/05/16-300x264.jpg 300w, {{ base }}/assets/images/uploads/2014/05/16-1024x904.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/16.jpg 1223w" sizes="(max-width: 319px) 100vw, 319px" />]({{ base }}/assets/images/uploads/2014/05/16.jpg)
-
-[<img class="alignnone  wp-image-3371" src="{{ base }}/assets/images/uploads/2014/05/17-300x200.jpg" alt="17" width="318" height="212" srcset="{{ base }}/assets/images/uploads/2014/05/17-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/17-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/17.jpg 1600w" sizes="(max-width: 318px) 100vw, 318px" />]({{ base }}/assets/images/uploads/2014/05/17.jpg)
-
-[<img class="alignnone  wp-image-3381" src="{{ base }}/assets/images/uploads/2014/05/18-300x223.jpg" alt="18" width="316" height="235" srcset="{{ base }}/assets/images/uploads/2014/05/18-300x223.jpg 300w, {{ base }}/assets/images/uploads/2014/05/18-1024x764.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/18.jpg 1447w" sizes="(max-width: 316px) 100vw, 316px" />]({{ base }}/assets/images/uploads/2014/05/18.jpg)
-
-[<img class="alignnone  wp-image-3391" src="{{ base }}/assets/images/uploads/2014/05/19-300x200.jpg" alt="19" width="311" height="207" srcset="{{ base }}/assets/images/uploads/2014/05/19-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/19-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/19.jpg 1600w" sizes="(max-width: 311px) 100vw, 311px" />]({{ base }}/assets/images/uploads/2014/05/19.jpg)
-
-[<img class="alignnone  wp-image-3401" src="{{ base }}/assets/images/uploads/2014/05/20-300x200.jpg" alt="20" width="309" height="206" srcset="{{ base }}/assets/images/uploads/2014/05/20-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/20-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/20.jpg 1600w" sizes="(max-width: 309px) 100vw, 309px" />]({{ base }}/assets/images/uploads/2014/05/20.jpg) [<img class="alignnone  wp-image-3411" src="{{ base }}/assets/images/uploads/2014/05/21.1-300x200.jpg" alt="21.1" width="308" height="205" srcset="{{ base }}/assets/images/uploads/2014/05/21.1-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/21.1-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/21.1.jpg 1600w" sizes="(max-width: 308px) 100vw, 308px" />]({{ base }}/assets/images/uploads/2014/05/21.1.jpg)
-
-[<img class="alignnone  wp-image-3421" src="{{ base }}/assets/images/uploads/2014/05/21.2-300x193.jpg" alt="21.2" width="348" height="224" srcset="{{ base }}/assets/images/uploads/2014/05/21.2-300x193.jpg 300w, {{ base }}/assets/images/uploads/2014/05/21.2-1024x659.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/21.2.jpg 1600w" sizes="(max-width: 348px) 100vw, 348px" />]({{ base }}/assets/images/uploads/2014/05/21.2.jpg)  [  <img class="wp-image-3441 alignnone" src="{{ base }}/assets/images/uploads/2014/05/22.2-200x300.jpg" alt="22.2" width="253" height="380" srcset="{{ base }}/assets/images/uploads/2014/05/22.2-200x300.jpg 200w, {{ base }}/assets/images/uploads/2014/05/22.2-683x1024.jpg 683w, {{ base }}/assets/images/uploads/2014/05/22.2.jpg 721w" sizes="(max-width: 253px) 100vw, 253px" />]({{ base }}/assets/images/uploads/2014/05/22.2.jpg)
-
-[<img class="alignnone  wp-image-3451" src="{{ base }}/assets/images/uploads/2014/05/22.3-300x200.jpg" alt="22.3" width="398" height="265" srcset="{{ base }}/assets/images/uploads/2014/05/22.3-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/22.3-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/22.3.jpg 1600w" sizes="(max-width: 398px) 100vw, 398px" />]({{ base }}/assets/images/uploads/2014/05/22.3.jpg)
-
-[   <img class="alignnone  wp-image-3431" src="{{ base }}/assets/images/uploads/2014/05/22.1-224x300.jpg" alt="22.1" width="266" height="356" srcset="{{ base }}/assets/images/uploads/2014/05/22.1-224x300.jpg 224w, {{ base }}/assets/images/uploads/2014/05/22.1-765x1024.jpg 765w, {{ base }}/assets/images/uploads/2014/05/22.1.jpg 807w" sizes="(max-width: 266px) 100vw, 266px" />]({{ base }}/assets/images/uploads/2014/05/22.4.jpg) 
-
-[<img class="alignnone  wp-image-4011" src="{{ base }}/assets/images/uploads/2014/05/22.41-300x200.jpg" alt="22.4" width="344" height="229" srcset="{{ base }}/assets/images/uploads/2014/05/22.41-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/22.41-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/22.41.jpg 1600w" sizes="(max-width: 344px) 100vw, 344px" />]({{ base }}/assets/images/uploads/2014/05/22.41.jpg) 
-
-[<img class="alignnone  wp-image-3771" src="{{ base }}/assets/images/uploads/2014/05/56-300x200.jpg" alt="56" width="332" height="221" srcset="{{ base }}/assets/images/uploads/2014/05/56-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/56-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/56.jpg 1600w" sizes="(max-width: 332px) 100vw, 332px" /><img class="alignnone  wp-image-3311" src="{{ base }}/assets/images/uploads/2014/05/101-300x200.jpg" alt="10" width="332" height="221" srcset="{{ base }}/assets/images/uploads/2014/05/101-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/101-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/101.jpg 1600w" sizes="(max-width: 332px) 100vw, 332px" /> <img class="alignnone  wp-image-3471" src="{{ base }}/assets/images/uploads/2014/05/23-300x245.jpg" alt="23" width="334" height="273" srcset="{{ base }}/assets/images/uploads/2014/05/23-300x245.jpg 300w, {{ base }}/assets/images/uploads/2014/05/23-1024x836.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/23.jpg 1322w" sizes="(max-width: 334px) 100vw, 334px" />  ]({{ base }}/assets/images/uploads/2014/05/23.jpg) <img class="alignnone  wp-image-3571 aligncenter" src="{{ base }}/assets/images/uploads/2014/05/33-300x200.jpg" alt="33" width="338" height="225" srcset="{{ base }}/assets/images/uploads/2014/05/33-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/33-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/33.jpg 1600w" sizes="(max-width: 338px) 100vw, 338px" /> [<img class="alignnone  wp-image-3481" src="{{ base }}/assets/images/uploads/2014/05/24-300x217.jpg" alt="24" width="335" height="243" srcset="{{ base }}/assets/images/uploads/2014/05/24-300x217.jpg 300w, {{ base }}/assets/images/uploads/2014/05/24-1024x742.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/24.jpg 1489w" sizes="(max-width: 335px) 100vw, 335px" />]({{ base }}/assets/images/uploads/2014/05/24.jpg) [<img class="alignnone  wp-image-3491" src="{{ base }}/assets/images/uploads/2014/05/25-300x200.jpg" alt="25" width="335" height="223" srcset="{{ base }}/assets/images/uploads/2014/05/25-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/25-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/25.jpg 1600w" sizes="(max-width: 335px) 100vw, 335px" />]({{ base }}/assets/images/uploads/2014/05/25.jpg)
-
-[<img class="alignnone  wp-image-3501" src="{{ base }}/assets/images/uploads/2014/05/26-300x200.jpg" alt="26" width="324" height="216" srcset="{{ base }}/assets/images/uploads/2014/05/26-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/26-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/26.jpg 1600w" sizes="(max-width: 324px) 100vw, 324px" />]({{ base }}/assets/images/uploads/2014/05/26.jpg)
-
-[<img class="alignnone  wp-image-3541" src="{{ base }}/assets/images/uploads/2014/05/30-300x200.jpg" alt="30" width="326" height="217" srcset="{{ base }}/assets/images/uploads/2014/05/30-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/30-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/30.jpg 1600w" sizes="(max-width: 326px) 100vw, 326px" /><img class="alignnone  wp-image-3511" src="{{ base }}/assets/images/uploads/2014/05/27-300x200.jpg" alt="27" width="321" height="214" srcset="{{ base }}/assets/images/uploads/2014/05/27-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/27-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/27.jpg 1600w" sizes="(max-width: 321px) 100vw, 321px" />]({{ base }}/assets/images/uploads/2014/05/27.jpg) [<img class="alignnone  wp-image-3521" src="{{ base }}/assets/images/uploads/2014/05/28-300x200.jpg" alt="28" width="315" height="210" srcset="{{ base }}/assets/images/uploads/2014/05/28-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/28-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/28.jpg 1600w" sizes="(max-width: 315px) 100vw, 315px" />]({{ base }}/assets/images/uploads/2014/05/28.jpg)
-
-[<img class="alignnone  wp-image-3531" src="{{ base }}/assets/images/uploads/2014/05/29-300x200.jpg" alt="29" width="311" height="207" srcset="{{ base }}/assets/images/uploads/2014/05/29-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/29-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/29.jpg 1600w" sizes="(max-width: 311px) 100vw, 311px" />]({{ base }}/assets/images/uploads/2014/05/29.jpg)  <img class="alignnone  wp-image-3581 aligncenter" src="{{ base }}/assets/images/uploads/2014/05/34-300x231.jpg" alt="34" width="325" height="250" srcset="{{ base }}/assets/images/uploads/2014/05/34-300x231.jpg 300w, {{ base }}/assets/images/uploads/2014/05/34-1024x791.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/34.jpg 1398w" sizes="(max-width: 325px) 100vw, 325px" /> [<img class="alignnone  wp-image-3551" src="{{ base }}/assets/images/uploads/2014/05/31-300x200.jpg" alt="31" width="356" height="237" srcset="{{ base }}/assets/images/uploads/2014/05/31-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/31-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/31.jpg 1600w" sizes="(max-width: 356px) 100vw, 356px" />]({{ base }}/assets/images/uploads/2014/05/31.jpg) [<img class="alignnone  wp-image-3561" src="{{ base }}/assets/images/uploads/2014/05/32-200x300.jpg" alt="32" width="280" height="421" srcset="{{ base }}/assets/images/uploads/2014/05/32-200x300.jpg 200w, {{ base }}/assets/images/uploads/2014/05/32-682x1024.jpg 682w, {{ base }}/assets/images/uploads/2014/05/32.jpg 720w" sizes="(max-width: 280px) 100vw, 280px" />]({{ base }}/assets/images/uploads/2014/05/32.jpg)   [<img class="alignnone  wp-image-3591" src="{{ base }}/assets/images/uploads/2014/05/35-300x200.jpg" alt="35" width="369" height="246" srcset="{{ base }}/assets/images/uploads/2014/05/35-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/35-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/35.jpg 1600w" sizes="(max-width: 369px) 100vw, 369px" />]({{ base }}/assets/images/uploads/2014/05/35.jpg)
-
-[<img class="alignnone  wp-image-3601" src="{{ base }}/assets/images/uploads/2014/05/36-300x200.jpg" alt="36" width="351" height="234" srcset="{{ base }}/assets/images/uploads/2014/05/36-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/36-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/36.jpg 1600w" sizes="(max-width: 351px) 100vw, 351px" />]({{ base }}/assets/images/uploads/2014/05/36.jpg)
-
-[<img class="alignnone  wp-image-3611" src="{{ base }}/assets/images/uploads/2014/05/37-300x222.jpg" alt="37" width="353" height="261" srcset="{{ base }}/assets/images/uploads/2014/05/37-300x222.jpg 300w, {{ base }}/assets/images/uploads/2014/05/37-1024x759.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/37.jpg 1457w" sizes="(max-width: 353px) 100vw, 353px" />]({{ base }}/assets/images/uploads/2014/05/37.jpg)
-
-[<img class="alignnone  wp-image-3621" src="{{ base }}/assets/images/uploads/2014/05/38-300x200.jpg" alt="38" width="350" height="233" srcset="{{ base }}/assets/images/uploads/2014/05/38-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/38-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/38.jpg 1600w" sizes="(max-width: 350px) 100vw, 350px" />]({{ base }}/assets/images/uploads/2014/05/38.jpg) [<img class="alignnone  wp-image-3631" src="{{ base }}/assets/images/uploads/2014/05/39-300x200.jpg" alt="39" width="366" height="244" srcset="{{ base }}/assets/images/uploads/2014/05/39-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/39-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/39.jpg 1600w" sizes="(max-width: 366px) 100vw, 366px" />]({{ base }}/assets/images/uploads/2014/05/39.jpg)
-
-[<img class="alignnone  wp-image-3641" src="{{ base }}/assets/images/uploads/2014/05/40-200x300.jpg" alt="40" width="241" height="362" srcset="{{ base }}/assets/images/uploads/2014/05/40-200x300.jpg 200w, {{ base }}/assets/images/uploads/2014/05/40-682x1024.jpg 682w, {{ base }}/assets/images/uploads/2014/05/40.jpg 720w" sizes="(max-width: 241px) 100vw, 241px" />]({{ base }}/assets/images/uploads/2014/05/40.jpg)
-
-[<img class="alignnone  wp-image-3701" src="{{ base }}/assets/images/uploads/2014/05/49-235x300.jpg" alt="49" width="269" height="344" srcset="{{ base }}/assets/images/uploads/2014/05/49-235x300.jpg 235w, {{ base }}/assets/images/uploads/2014/05/49.jpg 633w" sizes="(max-width: 269px) 100vw, 269px" /><img class="alignnone  wp-image-3651" src="{{ base }}/assets/images/uploads/2014/05/44-300x203.jpg" alt="44" width="399" height="270" srcset="{{ base }}/assets/images/uploads/2014/05/44-300x203.jpg 300w, {{ base }}/assets/images/uploads/2014/05/44-1024x694.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/44.jpg 1592w" sizes="(max-width: 399px) 100vw, 399px" />]({{ base }}/assets/images/uploads/2014/05/44.jpg)
-
-[<img class="alignnone  wp-image-3661" src="{{ base }}/assets/images/uploads/2014/05/45-300x200.jpg" alt="45" width="353" height="235" srcset="{{ base }}/assets/images/uploads/2014/05/45-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/45-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/45.jpg 1600w" sizes="(max-width: 353px) 100vw, 353px" />]({{ base }}/assets/images/uploads/2014/05/45.jpg) [<img class="alignnone  wp-image-3671" src="{{ base }}/assets/images/uploads/2014/05/46-300x200.jpg" alt="46" width="350" height="233" srcset="{{ base }}/assets/images/uploads/2014/05/46-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/46-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/46.jpg 1600w" sizes="(max-width: 350px) 100vw, 350px" />]({{ base }}/assets/images/uploads/2014/05/46.jpg)
-
-[<img class="alignnone  wp-image-3681" src="{{ base }}/assets/images/uploads/2014/05/47-300x200.jpg" alt="47" width="351" height="234" srcset="{{ base }}/assets/images/uploads/2014/05/47-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/47-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/47.jpg 1600w" sizes="(max-width: 351px) 100vw, 351px" />]({{ base }}/assets/images/uploads/2014/05/47.jpg)
-
-[<img class="alignnone  wp-image-3691" src="{{ base }}/assets/images/uploads/2014/05/48-300x185.jpg" alt="48" width="347" height="214" srcset="{{ base }}/assets/images/uploads/2014/05/48-300x185.jpg 300w, {{ base }}/assets/images/uploads/2014/05/48-1024x633.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/48.jpg 1600w" sizes="(max-width: 347px) 100vw, 347px" />]({{ base }}/assets/images/uploads/2014/05/48.jpg)  [<img class="alignnone  wp-image-3711" src="{{ base }}/assets/images/uploads/2014/05/50-300x200.jpg" alt="50" width="341" height="227" srcset="{{ base }}/assets/images/uploads/2014/05/50-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/50-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/50.jpg 1600w" sizes="(max-width: 341px) 100vw, 341px" />]({{ base }}/assets/images/uploads/2014/05/50.jpg)
-
-[<img class="alignnone  wp-image-3721" src="{{ base }}/assets/images/uploads/2014/05/51-300x212.jpg" alt="51" width="334" height="236" srcset="{{ base }}/assets/images/uploads/2014/05/51-300x212.jpg 300w, {{ base }}/assets/images/uploads/2014/05/51-1024x723.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/51.jpg 1528w" sizes="(max-width: 334px) 100vw, 334px" />]({{ base }}/assets/images/uploads/2014/05/51.jpg)
-
-[<img class="alignnone  wp-image-3731" src="{{ base }}/assets/images/uploads/2014/05/52-300x200.jpg" alt="52" width="327" height="218" srcset="{{ base }}/assets/images/uploads/2014/05/52-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/52-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/52.jpg 1600w" sizes="(max-width: 327px) 100vw, 327px" />]({{ base }}/assets/images/uploads/2014/05/52.jpg)
-
-[<img class="alignnone  wp-image-3741" src="{{ base }}/assets/images/uploads/2014/05/53-300x200.jpg" alt="53" width="330" height="220" srcset="{{ base }}/assets/images/uploads/2014/05/53-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/53-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/53.jpg 1600w" sizes="(max-width: 330px) 100vw, 330px" />]({{ base }}/assets/images/uploads/2014/05/53.jpg)
-
-[<img class="alignnone  wp-image-3751" src="{{ base }}/assets/images/uploads/2014/05/54-300x200.jpg" alt="54" width="321" height="214" srcset="{{ base }}/assets/images/uploads/2014/05/54-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/54-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/54.jpg 1600w" sizes="(max-width: 321px) 100vw, 321px" />]({{ base }}/assets/images/uploads/2014/05/54.jpg)
-
-[<img class="alignnone  wp-image-3761" src="{{ base }}/assets/images/uploads/2014/05/55-300x209.jpg" alt="55" width="322" height="224" srcset="{{ base }}/assets/images/uploads/2014/05/55-300x209.jpg 300w, {{ base }}/assets/images/uploads/2014/05/55-1024x715.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/55.jpg 1546w" sizes="(max-width: 322px) 100vw, 322px" />]({{ base }}/assets/images/uploads/2014/05/55.jpg)    <img class="alignnone  wp-image-3811 aligncenter" src="{{ base }}/assets/images/uploads/2014/05/60-300x200.jpg" alt="60" width="315" height="210" srcset="{{ base }}/assets/images/uploads/2014/05/60-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/60-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/60.jpg 1600w" sizes="(max-width: 315px) 100vw, 315px" /> [<img class="alignnone  wp-image-3791" src="{{ base }}/assets/images/uploads/2014/05/58-300x200.jpg" alt="58" width="311" height="207" srcset="{{ base }}/assets/images/uploads/2014/05/58-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/58-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/58.jpg 1600w" sizes="(max-width: 311px) 100vw, 311px" />]({{ base }}/assets/images/uploads/2014/05/58.jpg)
-
-[<img class="alignnone  wp-image-3801" src="{{ base }}/assets/images/uploads/2014/05/59-300x200.jpg" alt="59" width="314" height="209" srcset="{{ base }}/assets/images/uploads/2014/05/59-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/59-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/59.jpg 1600w" sizes="(max-width: 314px) 100vw, 314px" />]({{ base }}/assets/images/uploads/2014/05/59.jpg)  [<img class="alignnone  wp-image-3821" src="{{ base }}/assets/images/uploads/2014/05/62-300x214.jpg" alt="62" width="313" height="223" srcset="{{ base }}/assets/images/uploads/2014/05/62-300x214.jpg 300w, {{ base }}/assets/images/uploads/2014/05/62-1024x732.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/62.jpg 1510w" sizes="(max-width: 313px) 100vw, 313px" />]({{ base }}/assets/images/uploads/2014/05/62.jpg) [<img class="alignnone  wp-image-3831" src="{{ base }}/assets/images/uploads/2014/05/63-300x200.jpg" alt="63" width="317" height="211" srcset="{{ base }}/assets/images/uploads/2014/05/63-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/63-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/63.jpg 1600w" sizes="(max-width: 317px) 100vw, 317px" />]({{ base }}/assets/images/uploads/2014/05/63.jpg)
-
-[<img class="alignnone  wp-image-3841" src="{{ base }}/assets/images/uploads/2014/05/64-300x200.jpg" alt="64" width="311" height="207" srcset="{{ base }}/assets/images/uploads/2014/05/64-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/64-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/64.jpg 1600w" sizes="(max-width: 311px) 100vw, 311px" />]({{ base }}/assets/images/uploads/2014/05/64.jpg) [<img class="alignnone  wp-image-3851" src="{{ base }}/assets/images/uploads/2014/05/65-300x213.jpg" alt="65" width="308" height="219" srcset="{{ base }}/assets/images/uploads/2014/05/65-300x213.jpg 300w, {{ base }}/assets/images/uploads/2014/05/65-1024x728.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/65.jpg 1519w" sizes="(max-width: 308px) 100vw, 308px" />]({{ base }}/assets/images/uploads/2014/05/65.jpg)
-
-[<img class="alignnone  wp-image-3861" src="{{ base }}/assets/images/uploads/2014/05/66-300x200.jpg" alt="66" width="320" height="213" srcset="{{ base }}/assets/images/uploads/2014/05/66-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/66-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/66.jpg 1600w" sizes="(max-width: 320px) 100vw, 320px" />]({{ base }}/assets/images/uploads/2014/05/66.jpg) [<img class="alignnone  wp-image-3871" src="{{ base }}/assets/images/uploads/2014/05/67-300x225.jpg" alt="67" width="316" height="237" srcset="{{ base }}/assets/images/uploads/2014/05/67-300x225.jpg 300w, {{ base }}/assets/images/uploads/2014/05/67.jpg 960w" sizes="(max-width: 316px) 100vw, 316px" />]({{ base }}/assets/images/uploads/2014/05/67.jpg)
-
-[<img class="alignnone  wp-image-3881" src="{{ base }}/assets/images/uploads/2014/05/68-300x200.jpg" alt="68" width="314" height="209" srcset="{{ base }}/assets/images/uploads/2014/05/68-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/68-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/68.jpg 1600w" sizes="(max-width: 314px) 100vw, 314px" />]({{ base }}/assets/images/uploads/2014/05/68.jpg) [<img class="alignnone  wp-image-3891" src="{{ base }}/assets/images/uploads/2014/05/69-300x200.jpg" alt="69" width="309" height="206" srcset="{{ base }}/assets/images/uploads/2014/05/69-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/69-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/69.jpg 1600w" sizes="(max-width: 309px) 100vw, 309px" />]({{ base }}/assets/images/uploads/2014/05/69.jpg)
-
-[<img class="alignnone  wp-image-3901" src="{{ base }}/assets/images/uploads/2014/05/70-300x200.jpg" alt="70" width="311" height="207" srcset="{{ base }}/assets/images/uploads/2014/05/70-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/70-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/70.jpg 1600w" sizes="(max-width: 311px) 100vw, 311px" />]({{ base }}/assets/images/uploads/2014/05/70.jpg) [<img class="alignnone  wp-image-3911" src="{{ base }}/assets/images/uploads/2014/05/71-300x200.jpg" alt="71" width="309" height="206" srcset="{{ base }}/assets/images/uploads/2014/05/71-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/71-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/71.jpg 1600w" sizes="(max-width: 309px) 100vw, 309px" />]({{ base }}/assets/images/uploads/2014/05/71.jpg)     [<img class="alignnone  wp-image-3961" src="{{ base }}/assets/images/uploads/2014/05/510-300x225.jpg" alt="5" width="308" height="231" srcset="{{ base }}/assets/images/uploads/2014/05/510-300x225.jpg 300w, {{ base }}/assets/images/uploads/2014/05/510.jpg 960w" sizes="(max-width: 308px) 100vw, 308px" />]({{ base }}/assets/images/uploads/2014/05/510.jpg)
-
-[<img class="alignnone  wp-image-3971" src="{{ base }}/assets/images/uploads/2014/05/61-300x200.jpg" alt="6" width="305" height="203" srcset="{{ base }}/assets/images/uploads/2014/05/61-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/61-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/61.jpg 1600w" sizes="(max-width: 305px) 100vw, 305px" />]({{ base }}/assets/images/uploads/2014/05/61.jpg)
-
-[<img class="alignnone  wp-image-3981" src="{{ base }}/assets/images/uploads/2014/05/72-300x232.jpg" alt="7" width="306" height="237" srcset="{{ base }}/assets/images/uploads/2014/05/72-300x232.jpg 300w, {{ base }}/assets/images/uploads/2014/05/72-1024x792.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/72.jpg 1395w" sizes="(max-width: 306px) 100vw, 306px" />]({{ base }}/assets/images/uploads/2014/05/72.jpg)
-
-[<img class="alignnone  wp-image-3991 aligncenter" src="{{ base }}/assets/images/uploads/2014/05/81-300x200.jpg" alt="8" width="309" height="206" srcset="{{ base }}/assets/images/uploads/2014/05/81-300x200.jpg 300w, {{ base }}/assets/images/uploads/2014/05/81-1024x682.jpg 1024w, {{ base }}/assets/images/uploads/2014/05/81.jpg 1600w" sizes="(max-width: 309px) 100vw, 309px" />]({{ base }}/assets/images/uploads/2014/05/81.jpg)
+{% include gallery caption="**Our Photo Wall**." %}
 
 MALARIA MUSEUM Dublin’s very own Pop-up Malaria Museum opened in TMB’s headquarters at the top of Grafton Street on 25th April 2014. The Malaria Museum is a quirky experiential space, educating visitors with a variety of historical artefacts and interactive art works.
 
