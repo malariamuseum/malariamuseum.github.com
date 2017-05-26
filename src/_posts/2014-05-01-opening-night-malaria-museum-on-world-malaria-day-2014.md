@@ -276,7 +276,7 @@ gallery:
     alt: "Image 62"
     title: "Image 62 title caption"
 ---
-**Malaria Museum &#8211; Let’s Make Malaria History!**
+## Malaria Museum &#8211; Let’s Make Malaria History!
 
 Opening night at the Malaria Museum was a huge success, with three times the number of visitors expected. Being an educational organisation and exhibition space, we were delighted to hear visitors say, that they&#8217;d learned so much and would need to come back in order absorb fully all the entertaining and quirky information exhibited at the Malaria Museum.
 
@@ -284,7 +284,7 @@ Next week we are excited to launch a series of public lectures given by Trinity 
 
 {% include gallery caption="**Our Photo Wall**." %}
 
-MALARIA MUSEUM Dublin’s very own Pop-up Malaria Museum opened in TMB’s headquarters at the top of Grafton Street on 25th April 2014. The Malaria Museum is a quirky experiential space, educating visitors with a variety of historical artefacts and interactive art works.
+**MALARIA MUSEUM** Dublin’s very own Pop-up Malaria Museum opened in TMB’s headquarters at the top of Grafton Street on 25th April 2014. The Malaria Museum is a quirky experiential space, educating visitors with a variety of historical artefacts and interactive art works.
 
 While the pop-up museum coincided with World Malaria Day, on April 25th, making Dublin part of a Global conversation about malaria, the Malaria Museum website will remain a permanent virtual space to bring together the different voices from around the world that are working to end malaria.
 
@@ -294,7 +294,7 @@ A group of  talented Irish visual artists have collaborated with museum, develo
 
 Through entertaining, fun and interactive exhibits, both physical and online, the museum will educate the visitor about the history of malaria, its importance as a disease, current efforts to control it and future prospects regarding its eradication. By also acting as an independent forum where people working on malaria can share their work, the museum will contribute to the control and eradication of the disease.
 
-People of the Museum
+## People of the Museum
 
 Vanessa Breen has a with wide-ranging experience from her career in film and television, brand communication, and event organization. As museum director she came on board to head up a team of creatives who will make the museum a truly unique experience. Upholding the mission of the Malaria Museum to remain an independent space to bring together the different voices from around the world that are working to end malaria.
 
@@ -304,4 +304,4 @@ Curated by Aoife O&#8217;Sullivan
 
 Featuring pieces by Fiona Byrne, Eileen Hutton, Leanne McLaughlin and <span style="color: #222222;">Jimmy V. Zalkauskas. </span>
 
-Photos by Louise Scott (http://disassembledublin.blogspot.ie/2014/04/happy-marlaria-day.html)
+Photos by [Louise Scott](http://disassembledublin.blogspot.ie/2014/04/happy-marlaria-day.html)
