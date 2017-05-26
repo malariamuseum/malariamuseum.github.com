@@ -22,6 +22,8 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : MalariaMuseum/malariamuseum.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true  # false (default)
+breadcrumb_home_label : "Start"
+breadcrumb_separator  : ">"
 words_per_minute         : 200
 comments:
   provider               : staticman # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
