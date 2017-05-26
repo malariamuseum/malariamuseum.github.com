@@ -18,14 +18,14 @@ By also acting as an independent forum where people working on malaria can share
 
 **Vanessa Breen    **
 
-<img class="alignnone size-full wp-image-2461 alignright" style="line-height: 1.5em;" alt="unnamed" src="http://malariamuseum.com/wp-content/uploads/2010/01/unnamed.jpg" width="150" height="150" />Vanessa has a with wide-ranging experience from her career in film and television, brand communication, and event organization. As museum director she came on board to head up a team of creatives who will make the museum a truly unique experience.
+<img class="alignnone alignright" style="line-height: 1.5em;" alt="unnamed" src="{{ base }}/images/uploads/2010/01/unnamed.jpg" width="150" height="150" />Vanessa has a with wide-ranging experience from her career in film and television, brand communication, and event organization. As museum director she came on board to head up a team of creatives who will make the museum a truly unique experience.
 
 <span style="line-height: 1.5em;">Upholding the mission of the Malaria Museum to remain an independent space to bring together the different voices from around the world that are working to end malaria.</span>
 
 &nbsp;
 
 <div id="attachment_695" style="width: 160px" class="wp-caption alignright">
-  <a href="http://malariamuseum.de/wp-content/uploads/2010/01/IMG_1641-Copy.jpg"><img class="size-thumbnail wp-image-695 " title="Marco Herbst" alt="Marco Herbst" src="http://malariamuseum.de/wp-content/uploads/2010/01/IMG_1641-Copy-150x150.jpg" width="150" height="150" /></a>
+  <a href="{{ base }}/images/uploads/2010/01/IMG_1641.jpg"><img class="size-thumbnail " title="Marco Herbst" alt="Marco Herbst" src="{{ base }}/images/uploads/2010/01/IMG_1641.jpg" width="150" height="150" /></a>
   
   <p class="wp-caption-text">
     Marco Herbst
