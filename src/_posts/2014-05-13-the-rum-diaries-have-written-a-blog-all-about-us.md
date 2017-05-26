@@ -3,7 +3,6 @@ title: 'The Rum Diaries &#8211; have written a blog all about us!'
 date: 2014-05-13T13:51:59+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/05/13/the-rum-diaries-have-written-a-blog-all-about-us/
 header:
   teaser: /assets/images/uploads/2014/05/The-Rum-Diaries.png
 categories:

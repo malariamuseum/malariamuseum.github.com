@@ -3,7 +3,6 @@ title: A visit to the malaria heartland
 date: 2011-10-25T19:42:51+00:00
 author: Dr. Sam McManus
 layout: single
-permalink: /blog/2011/10/25/a-visit-to-the-malaria-hearland/
 Country:
   - Malawi
 header:

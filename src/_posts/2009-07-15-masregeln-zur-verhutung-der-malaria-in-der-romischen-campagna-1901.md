@@ -3,7 +3,6 @@ title: Maßregeln zur Verhütung der Malaria in der römischen Campagna 1901
 date: 2009-07-15T14:50:10+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2009/07/15/masregeln-zur-verhutung-der-malaria-in-der-romischen-campagna-1901/
 header:
   teaser: /assets/images/uploads/2009/07/verhutungmalaria.jpg
 categories:

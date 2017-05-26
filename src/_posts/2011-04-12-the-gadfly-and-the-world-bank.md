@@ -4,7 +4,6 @@ date: 2011-04-12T08:24:19+00:00
 author: Dr. Sam McManus
 excerpt: Amir Attaran’s gadfly nature forced him to take interest in the ‘roll back malaria campaign’ of World Bank. His interest resulted in publishing of an article in 2005 which proved some great discrepancies in facts provided by the bank. As a result the bank’s president looked into the matter and made changes in campaign, ultimately making things slightly better.
 layout: single
-permalink: /blog/2011/04/12/the-gadfly-and-the-world-bank/
 header:
   teaser: /assets/images/uploads/2011/04/Amir-Attaran.jpg
 categories:

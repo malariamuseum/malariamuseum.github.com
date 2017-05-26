@@ -21,7 +21,7 @@ title_separator          : "-"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : MalariaMuseum/malariamuseum.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true  # false (default)
 words_per_minute         : 200
 comments:
   provider               : staticman # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -167,7 +167,7 @@ autopages:
     layouts:
       - "archive-taxonomy.html"
     title: ":category"
-    permalink: "/categories/:category"
+    permalink: /:categories/:title/
   collections:
     enabled: false
   tags:
@@ -175,7 +175,7 @@ autopages:
     layouts:
       - "archive-taxonomy.html"
     title: ":tag" # :tag is replaced by the tag name
-    permalink: "/tag/:tag"
+    permalink: "/tag/:title"
 
 #redcarpet:
 # extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',

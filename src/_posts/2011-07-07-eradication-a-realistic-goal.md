@@ -3,7 +3,6 @@ title: 'Eradication: a realistic goal?'
 date: 2011-07-07T17:27:23+00:00
 author: Dr. Sam McManus
 layout: single
-permalink: /blog/2011/07/07/eradication-a-realistic-goal/
 header:
   teaser: /assets/images/uploads/2011/07/zab29122.jpg
 categories:

@@ -4,7 +4,6 @@ date: 2011-02-21T09:10:19+00:00
 author: Marco Herbst
 excerpt: 'It was a troublesome task to get a hold of the book ‘This is Ann’, now it has been scanned and reprinted. The lovely book is paperback, has forty three pages and can be bought from eBay or from the Malaria Museum Shop. '
 layout: single
-permalink: /blog/2011/02/21/this-is-ann-digitally-remastered-reprinted-and-for-sale/
 header:
   teaser: /assets/images/uploads/2011/02/ThisIsAnnCover.gif
 categories:

@@ -4,7 +4,6 @@ date: 2010-06-01T13:41:02+00:00
 author: Marco Herbst
 excerpt: Uganda is one of those countries which has the maximum number of people affected by malaria, more than 12million got affected in 2007 and forty seven thousand out of these passed away. This BBC documentary shows how Artemesenin is produced and distributed in Uganda.
 layout: single
-permalink: /blog/2010/06/01/survival-tv-bbc-doc-on-atemesenin-uganda/
 Country:
   - Uganda
 header:

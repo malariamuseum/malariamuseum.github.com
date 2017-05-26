@@ -3,7 +3,6 @@ title: 'Opening Night &#8211; Malaria Museum on World Malaria Day 2014'
 date: 2014-05-01T11:06:04+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/05/01/opening-night-malaria-museum-on-world-malaria-day-2014/
 header:
   teaser: /assets/images/uploads/2014/05/4.jpg
 categories:

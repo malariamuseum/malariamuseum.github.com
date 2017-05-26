@@ -4,7 +4,6 @@ date: 2009-08-16T14:55:18+00:00
 author: Marco Herbst
 excerpt: 'The Museum is now loaded with several items as part of the Schlumberger Anti-Malaria program. '
 layout: single
-permalink: /blog/2009/08/16/schlumberger-malaria-curative-kit/
 header:
   teaser: /assets/images/uploads/2009/08/SLBmalariaki7t.jpg
 categories:

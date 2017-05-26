@@ -3,7 +3,6 @@ title: The Malaria Museum Library
 date: 2009-07-14T14:48:40+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2009/07/14/the-malaria-museum-library/
 header:
   teaser: /assets/images/uploads/2009/07/TRINITY-COLLEGE-LIBRARY-DUB.jpg
 categories:

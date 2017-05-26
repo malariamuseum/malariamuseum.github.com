@@ -1,11 +1,8 @@
 ---
-id: 30
 title: Malaria Posters from National Library of Medicine, USA
 date: 2010-01-12T22:55:30+00:00
 author: Marco Herbst
 layout: single
-guid: http://lunch.ie/malariamuseum/?p=30
-permalink: /blog/2010/01/12/more-malaria-posters-from-national-library-of-medecine-usa/
 header:
   teaser: /assets/images/uploads/2010/01/NLMNLM11101438599152855-R.jpg
 categories:

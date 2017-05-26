@@ -3,7 +3,6 @@ title: OPENING NIGHT OF MALARIA MUSEUM, World Malaria Day, 25th April
 date: 2014-04-15T19:47:42+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/04/15/opening-night-malaria-museum-world-malaria-day-25th-april/
 header:
   teaser: assets/images/uploads/2014/04/NEON.jpg
 categories:

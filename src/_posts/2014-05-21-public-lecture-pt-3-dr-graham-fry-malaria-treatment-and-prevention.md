@@ -3,7 +3,6 @@ title: 'Public Lecture &#8211; Pt 3 &#8211; Dr. Graham Fry &#8220;Malaria: Treat
 date: 2014-05-21T20:16:14+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/05/21/public-lecture-pt-3-dr-graham-fry-malaria-treatment-and-prevention/
 header:
   teaser: /assets/images/uploads/2014/05/Talks_Pt-3_Graham.png
 categories:

@@ -4,7 +4,6 @@ date: 2010-01-08T20:14:05+00:00
 author: Marco Herbst
 excerpt: 'Mosquito nets have been used for several purposes apart from its primary use of avoiding mosquito bites. In Malawi people are using the nets in order to dry fish. '
 layout: single
-permalink: /blog/2010/01/08/alternative-use-of-mosquito-nets-in-malawi/
 header:
   teaser: /assets/images/uploads/2010/01/Malaria-Bed-Nets-Malawi.jpg
 categories:

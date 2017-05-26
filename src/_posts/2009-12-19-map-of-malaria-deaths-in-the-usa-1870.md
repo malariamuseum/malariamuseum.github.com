@@ -4,7 +4,6 @@ date: 2009-12-19T14:38:44+00:00
 author: Marco Herbst
 excerpt: 'At the moment USA has a small number of malaria deaths each year, but in 1870 things were totally different. This map shows the malaria deaths in the country more than a century ago. '
 layout: single
-permalink: /blog/2009/12/19/map-of-malaria-deaths-in-the-usa-1870/
 Country:
   - USA
 header:

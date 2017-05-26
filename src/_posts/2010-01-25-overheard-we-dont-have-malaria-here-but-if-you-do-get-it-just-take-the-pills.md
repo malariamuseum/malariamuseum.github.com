@@ -3,7 +3,6 @@ title: 'Overheard: We don&#8217;t have malaria here&#8230;but if you do get it j
 date: 2010-01-25T20:58:52+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2010/01/25/overheard-we-dont-have-malaria-here-but-if-you-do-get-it-just-take-the-pills/
 header:
   teaser: /assets/images/uploads/2010/01/dog.jpg
 categories:

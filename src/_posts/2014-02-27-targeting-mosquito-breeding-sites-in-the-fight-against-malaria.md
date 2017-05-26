@@ -3,7 +3,6 @@ title: Targeting mosquito breeding sites in the fight against malaria
 date: 2014-02-27T19:24:17+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/02/27/targeting-mosquito-breeding-sites-in-the-fight-against-malaria/
 header:
   teaser: /assets/images/uploads/2014/02/An-Indian-worker-sprays.jpg
 categories:

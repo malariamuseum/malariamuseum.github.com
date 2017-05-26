@@ -3,7 +3,6 @@ title: New discovery gives hope for a viable malaria vaccine
 date: 2011-11-29T08:45:37+00:00
 author: Dr. Sam McManus
 layout: single
-permalink: /blog/2011/11/29/new-discovery-gives-hope-for-a-viable-malaria-vaccine/
 Country:
   - UK
 header:

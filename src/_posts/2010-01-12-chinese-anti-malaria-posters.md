@@ -4,7 +4,6 @@ date: 2010-01-12T23:03:39+00:00
 author: Marco Herbst
 excerpt: 'Some Chinese singleers about malaria, guiding the people about methods to save themselves from the disease. '
 layout: single
-permalink: /blog/2010/01/12/chinese-anti-malaria-posters/
 Country:
   - China
 header:

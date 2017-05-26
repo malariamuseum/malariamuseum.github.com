@@ -4,7 +4,6 @@ date: 2009-11-21T15:20:28+00:00
 author: Marco Herbst
 excerpt: A visit to the Malaria Museum in Pontinia and meeting its founder Claudio Galeazzi
 layout: single
-permalink: /blog/2009/11/21/la-malaria-e-la-sua-storia/
 Country:
   - Italy
 header:

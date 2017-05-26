@@ -4,7 +4,6 @@ date: 2009-04-17T14:36:09+00:00
 author: Marco Herbst
 excerpt: "This Matchbook possibly dates to the construction of the Panama Canal in the early 1900's. It has some text on it's back related to malaria prevention."
 layout: single
-permalink: /blog/2009/04/17/malaria-museum-matchbook/
 header:
   teaser: /assets/images/uploads/2009/04/DSC01929.jpg
 categories:

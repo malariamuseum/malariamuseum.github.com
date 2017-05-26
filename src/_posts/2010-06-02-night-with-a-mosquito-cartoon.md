@@ -4,7 +4,6 @@ date: 2010-06-02T13:53:00+00:00
 author: Marco Herbst
 excerpt: Christoph Niemann is one of the best illustrators in the world. In this image he teaches how to tackle a mosquito. The image has got a number of funny things in it, showing encounter of a common man with a mosquito.
 layout: single
-permalink: /blog/2010/06/02/night-with-a-mosquito-cartoon/
 header:
   teaser: /assets/images/uploads/2010/06/mosquito-cartoon.jpg
 categories:

@@ -3,7 +3,6 @@ title: Schlumberger Guide to Malaria
 date: 2009-09-10T15:03:09+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2009/09/10/schlumberger-guide-to-malaria/
 header:
   teaser: /assets/images/uploads/2009/09/DSC02262.jpg
 categories:

@@ -3,7 +3,6 @@ title: 'Public lecture &#8211; Pt 1 &#8211; Dr. Vincent Kenny &#8211;  &#8216;Ma
 date: 2014-05-07T08:57:25+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/05/07/public-lecture-pt-1-dr-vincent-kenny-malaria-mosquitos-and-man-at-tmb-18-30-on-8th-of-may/
 header:
   teaser: assets/images/uploads/2014/05/Talks_Pt-1_Vincent.jpg
 categories:

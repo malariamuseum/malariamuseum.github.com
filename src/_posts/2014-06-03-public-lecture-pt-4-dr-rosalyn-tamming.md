@@ -1,6 +1,5 @@
 ---
 title: 'Public Lecture &#8211; Pt 4 &#8211; Dr. Rosalyn Tamming &#8211; THURSDAY 5th, June,  at Malaria Museum.'
-date: 2014-06-03T15:43:57+00:00
 author: Vanessa Breen
 layout: single
 header:

@@ -4,7 +4,6 @@ date: 2009-07-16T14:53:22+00:00
 author: Marco Herbst
 excerpt: 'An anti-malaria medicine bottle. '
 layout: single
-permalink: /blog/2009/07/16/anti-malaria-medicine-bottle/
 header:
   teaser: /assets/images/uploads/2009/07/DSC02156.jpg
 categories:

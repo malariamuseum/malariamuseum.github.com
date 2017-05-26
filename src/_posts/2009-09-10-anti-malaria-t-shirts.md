@@ -4,7 +4,6 @@ date: 2009-09-10T15:05:19+00:00
 author: Marco Herbst
 excerpt: 'These T-Shirts have been treated with Permehrin, a contact insecticide with a repellent effect.  '
 layout: single
-permalink: /blog/2009/09/10/anti-malaria-t-shirts/
 header:
   teaser: /assets/images/uploads/2009/09/DSC02265.jpg
 categories:

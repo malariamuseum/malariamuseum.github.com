@@ -4,7 +4,6 @@ date: 2011-05-03T11:33:43+00:00
 author: Dr. Sam McManus
 excerpt: 'Jay Keasling, a professor of Biochemical Engineering at University of California, Berkeley, has found the lager brewing technique to be useful in eliminating malaria from the globe. Artemisinic acid can be made synthetically at a medium sized unit. The acid manufactured by the unit shall be enough to eliminate the disease from earth. '
 layout: single
-permalink: /blog/2011/05/03/malaria-and-beer-a-revolutionary-relationship/
 categories:
   - Did you know?
   - Malaria Prevention

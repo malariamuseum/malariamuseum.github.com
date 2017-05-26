@@ -3,7 +3,6 @@ title: Malaria Top Trumps
 date: 2009-04-16T14:33:14+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2009/04/16/malaria-top-trumps/
 Country:
   - Germany
 header:

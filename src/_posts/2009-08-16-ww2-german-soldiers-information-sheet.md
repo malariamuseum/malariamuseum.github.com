@@ -5,7 +5,6 @@ author: Marco Herbst
 excerpt: |
   WW2 German Soldier's Information Sheet
 layout: single
-permalink: /blog/2009/08/16/ww2-german-soldiers-information-sheet/
 Country:
   - Germany
 header:

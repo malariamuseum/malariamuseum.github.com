@@ -3,7 +3,6 @@ title: 'How the Malaria Museum began&#8230;.'
 date: 2011-09-26T20:56:53+00:00
 author: Dr. Sam McManus
 layout: single
-permalink: /blog/2011/09/26/how-the-malaria-museum-began/
 header:
   teaser: /assets/images/uploads/2011/09/mosquitolarvae.jpg
 categories:

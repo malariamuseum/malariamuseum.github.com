@@ -3,7 +3,6 @@ title: 'Public Lecture- Pt 2 &#8211; Prof. Angus Bell, &#8220;Antimalarial thera
 date: 2014-05-09T13:04:34+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/05/09/public-lecture-pt-2-prof-angus-bell-antimalarial-therapy-an-arms-race-between-humans-and-parasites/
 header:
   teaser: /assets/images/uploads/2014/05/Talks_Pt-2_Angus.jpg
 categories:

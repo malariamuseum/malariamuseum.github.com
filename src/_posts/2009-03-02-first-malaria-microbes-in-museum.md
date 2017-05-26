@@ -3,7 +3,6 @@ title: First Malaria Microbes in Museum
 date: 2009-03-02T14:27:35+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2009/03/02/first-malaria-microbes-in-museum/
 header:
   teaser: /assets/images/uploads/2009/03/malariamicrobestuffed.jpg
 categories:

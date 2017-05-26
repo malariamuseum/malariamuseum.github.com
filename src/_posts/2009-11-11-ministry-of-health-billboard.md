@@ -4,7 +4,6 @@ date: 2009-11-11T15:13:07+00:00
 author: Marco Herbst
 excerpt: Official Ministry of Health Billboard advising locals to avoid the traditional healers and go straight to the hospital
 layout: single
-permalink: /blog/2009/11/11/ministry-of-health-billboard/
 header:
   teaser: /assets/images/uploads/2009/11/sahnotopehpehdokta.jpg
 categories:

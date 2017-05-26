@@ -4,7 +4,6 @@ date: 2009-03-02T14:21:18+00:00
 author: Marco Herbst
 excerpt: 'Malaria Museum has received a copy (of a copy) of Doctor Seuss “This is Ann”. We are looking for an original version. '
 layout: single
-permalink: /blog/2009/03/02/dr-seuss-on-malaria/
 header:
   teaser: /assets/images/uploads/2009/03/drseuss.gif
 categories:

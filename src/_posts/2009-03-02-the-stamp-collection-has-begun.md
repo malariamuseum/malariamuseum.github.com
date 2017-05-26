@@ -4,7 +4,6 @@ date: 2009-03-02T14:05:44+00:00
 author: Marco Herbst
 excerpt: 'Malaria stamp collection has been started and a number of stamps from different countries are a part of the museum now. '
 layout: single
-permalink: /blog/2009/03/02/the-stamp-collection-has-begun/
 header:
   teaser: /assets/images/uploads/2009/03/Stamps.jpg
 categories:

@@ -4,7 +4,6 @@ date: 2011-06-29T22:17:17+00:00
 author: Marco Herbst
 excerpt: '<audio src="{{ base }}/assets/images/uploads/2011/06/Malaria-Museum-podcast-2.mp3" controls preload="auto" autobuffer></audio> [audio {{ base }}/assets/images/uploads/2011/06/Malaria-Museum-podcast-2.mp3] [audio {{ base }}/assets/images/uploads/2011/06/Malaria-Museum-podcast-2.mp3]'
 layout: single
-permalink: /blog/2011/06/29/podcast-1-interview-with-sam-mcconkey/
 Country:
   - Ireland
 enclosure:

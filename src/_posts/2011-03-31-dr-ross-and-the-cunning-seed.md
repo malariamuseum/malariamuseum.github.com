@@ -4,7 +4,6 @@ date: 2011-03-31T13:11:53+00:00
 author: Dr. Sam McManus
 excerpt: 'Ronald Ross was a weak student of medicine, but when he came to sub-continent he got interested in mystery of malaria transmission, which consequently earned him the Nobel Prize for medicine. He did lots of experiments and found that malaria was transmitted via pregnant anopheles mosquito.'
 layout: single
-permalink: /blog/2011/03/31/dr-ross-and-the-cunning-seed/
 Country:
   - India
 header:

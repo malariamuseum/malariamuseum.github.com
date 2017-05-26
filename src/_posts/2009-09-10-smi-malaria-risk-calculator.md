@@ -4,7 +4,6 @@ date: 2009-09-10T15:00:51+00:00
 author: Marco Herbst
 excerpt: 'SMI Malaria Risk Calculator given to firms operating in Malaria Risk areas. '
 layout: single
-permalink: /blog/2009/09/10/smi-malaria-risk-calculator/
 header:
   teaser: /assets/images/uploads/2009/09/Calendar.jpg
 categories:

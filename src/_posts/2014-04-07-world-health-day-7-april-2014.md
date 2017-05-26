@@ -3,7 +3,6 @@ title: 'World Health Day &#8211; 7 April 2014'
 date: 2014-04-07T15:57:53+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/04/07/world-health-day-7-april-2014/
 header:
   teaser: /assets/images/uploads/2014/04/DISEASESpix_ok.jpg
 categories:

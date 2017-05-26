@@ -3,7 +3,6 @@ title: 'Overheard: I get malaria every couple of months, then I go to the doctor
 date: 2010-01-25T21:12:17+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2010/01/25/overheard-i-get-malaria-every-couple-of-months-i-go-to-the-doctor-and-get-the-pills/
 header:
   teaser: /assets/images/uploads/2010/01/dog.jpg
 categories:

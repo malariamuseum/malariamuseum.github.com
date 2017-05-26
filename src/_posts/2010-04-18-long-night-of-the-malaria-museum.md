@@ -6,7 +6,6 @@ excerpt: |
   On Sunday the 25th April, to commemorate World Malaria Day 2010, we will celebrate the "Long night of the Malaria Museum".
   There will be a colonial theme with some quinine containing drinks and a cucumber sandwich or 2...
 layout: single
-permalink: /blog/2010/04/18/long-night-of-the-malaria-museum/
 Country:
   - Germany
 header:

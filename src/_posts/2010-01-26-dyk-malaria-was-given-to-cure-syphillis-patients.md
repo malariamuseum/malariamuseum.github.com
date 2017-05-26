@@ -4,7 +4,6 @@ date: 2010-01-26T12:39:57+00:00
 author: Marco Herbst
 excerpt: 'An ugly disease ‘tertiary syphilis’ used to be cured with the help of another deadly, but curable disease, malaria, for some period of time. With malaria, patients were given a kind of pyrotherapy due to the high and prolonged fevers.  Julius Wagner-Jauregg was the one who suggested this treatment.'
 layout: single
-permalink: /blog/2010/01/26/dyk-malaria-was-given-to-cure-syphillis-patients/
 header:
   teaser: /assets/images/uploads/2010/01/index5.jpeg
 categories:

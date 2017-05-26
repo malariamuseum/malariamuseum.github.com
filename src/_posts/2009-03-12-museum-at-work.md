@@ -3,8 +3,6 @@ title: Preparing the microbes
 date: 2009-03-12T14:30:12+00:00
 author: Marco Herbst
 layout: single
-guid: http://lunch.ie/malariamuseum/?p=148
-permalink: /blog/2009/03/12/museum-at-work/
 header:
   teaser: /assets/images/uploads/2009/03/DSC01811.jpg
 categories:

@@ -4,7 +4,6 @@ date: 2009-11-04T15:11:03+00:00
 author: Marco Herbst
 excerpt: 'A high resolution three dimensional model of Anophelene Mosquito. '
 layout: single
-permalink: /blog/2009/11/04/3d-model-of-the-anophelene-mosquito-2/
 header:
   teaser: /assets/images/uploads/2009/11/Mosquito2.jpg
 categories:

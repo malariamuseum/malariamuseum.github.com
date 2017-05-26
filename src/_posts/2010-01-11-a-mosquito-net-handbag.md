@@ -4,7 +4,6 @@ date: 2010-01-11T08:33:31+00:00
 author: Marco Herbst
 excerpt: A mint green colored fashionable handbag made from a mosquito net.
 layout: single
-permalink: /blog/2010/01/11/a-mosquito-net-handbag/
 header:
   teaser: /assets/images/uploads/2010/01/IMG_8064-746393.jpg
 categories:

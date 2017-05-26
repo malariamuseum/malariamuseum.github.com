@@ -3,7 +3,6 @@ title: 'Overheard: Parents resell medicine, children die.'
 date: 2010-01-25T20:34:00+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2010/01/25/overheard-parents-reselling-medicine-children-dying/
 header:
   teaser: /assets/images/uploads/2010/01/dog.jpg
 categories:

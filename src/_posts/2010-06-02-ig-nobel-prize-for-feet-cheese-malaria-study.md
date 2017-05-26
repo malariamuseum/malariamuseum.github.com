@@ -4,7 +4,6 @@ date: 2010-06-02T13:37:40+00:00
 author: Marco Herbst
 excerpt: 'Bart Knols made a really interesting discovery that female mosquitoes that carry malaria are attracted towards human feet and Limburger cheese with equal intensity. This discovery earned him the Biology Ig Nobel Prize in the year two thousand and six. '
 layout: single
-permalink: /blog/2010/06/02/ig-nobel-prize-for-feet-cheese-malaria-study/
 Country:
   - The Netherlands
 header:

@@ -4,7 +4,6 @@ date: 2010-12-06T17:00:28+00:00
 author: Marco Herbst
 excerpt: 'After a period of two years and a number of favors, Malaria Museum is a proud owner of the famous book of Doctor Seuss “This is Ann”. Getting the book was not easy on the Museum budget, but after getting help of some well wishers, we have a great copy with us. '
 layout: single
-permalink: /blog/2010/12/06/this-is-ann-a-long-time-coming/
 Country:
   - USA
 header:

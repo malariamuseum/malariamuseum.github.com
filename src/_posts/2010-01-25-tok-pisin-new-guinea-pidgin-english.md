@@ -3,7 +3,6 @@ title: 'Tok Pisin &#8211; New Guinea Pidgin English'
 date: 2010-01-25T19:40:47+00:00
 author: Marco Herbst
 layout: single
-permalink: /blog/2010/01/25/tok-pisin-new-guinea-pidgin-english/
 Country:
   - Papua New Guinea
 header:

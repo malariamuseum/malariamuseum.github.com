@@ -3,7 +3,6 @@ title: 'WORLD MALARIA DAY 2014:  WHO HELPS COUNTRIES ASSESS FEASIBILITY OF ELIMI
 date: 2014-04-25T09:04:46+00:00
 author: Vanessa Breen
 layout: single
-permalink: /blog/2014/04/25/world-malaria-day-2014-who-helps-countries-assess-feasibility-of-eliminating-malaria/
 header:
   teaser: assets/images/uploads/2014/04/Malaria-Day.png
 categories:

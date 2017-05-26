@@ -4,7 +4,6 @@ date: 2010-12-18T13:37:54+00:00
 author: Marco Herbst
 excerpt: 'We now have a 3m * 1m beautiful printout of the genome map as part of the collection and the opening exhibit to an explanation of some of the research that this information has enabled.'
 layout: single
-permalink: /blog/2010/12/18/the-post-genomic-era-of-malaria-research/
 Country:
   - UK
 header:

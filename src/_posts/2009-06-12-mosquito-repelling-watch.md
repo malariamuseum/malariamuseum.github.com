@@ -4,7 +4,6 @@ date: 2009-06-12T14:45:06+00:00
 author: Marco Herbst
 excerpt: A watch that has advanced harmonics circuitry to emit ultra sonic high frequency that wards off pregnant mosquitoes.
 layout: single
-permalink: /blog/2009/06/12/mosquito-repelling-watch/
 header:
   teaser: /assets/images/uploads/2009/06/bugscareW12.jpg
 categories:
