@@ -1,5 +1,5 @@
 ---
-title: About
+title: ABOUT
 date: 2010-01-08T19:56:28+00:00
 author: Marco Herbst
 layout: single
@@ -42,75 +42,10 @@ It is his intention to bring together adequate talent, finance and enthusiasm to
 
 We are very grateful to the members of our Advisory Board who have offered us their support and goodwill in this venture.
 
-<table width="100%" border="0" bgcolor="">
-  <tr>
-    <td width="150">
-      <strong>Name</strong>
-    </td>
-    
-    <td>
-      <strong>Position</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Dr. Vincent Kenny
-    </td>
-    
-    <td>
-       Lecturer in Medical Anthropology &#8211; LSB -College. Lecturer, Course Co-ordinator / Research Officer &#8211; Department of International Health & Tropical Medicine, Royal College of Surgeons in Ireland.
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Andrew Lewis
-    </td>
-    
-    <td>
-      <a href="http://www.rcsi.ie/" target="_blank"> CEO at Tropical Medical Bureau.</a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Dr. Kunal D Patel
-    </td>
-    
-    <td>
-      Medical Director at iheed Institute, Medic, academic and Global Health Advocate. Technical Advisor, Baan Gerda Orphanage, Children’s Rights Foundation http://tcd.academia.edu/KunalPatel
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Prof. Angus Bell
-    </td>
-    
-    <td>
-      BSc (Edin.) MA (Dubl.) PhD (Brit. Col.) FTCD – Associate Professor. Department of Microbiology Trinity College Dublin.  <a title="Prof Angus Bell - Trinity College Dublin" href="http://www.tcd.ie/Microbiology/research/a_bell.php">http://www.tcd.ie/Microbiology/research/a_bell.php</a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-    </td>
-    
-    <td>
-      <a href="http://www.hip.hu-berlin.de/persons/lucius-prof-dr-richard/" target="_blank">  Prof. Dr. Richard Lucius </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-       Dr. Graham Fry
-    </td>
-    
-    <td>
-       Lecturer in Clinical Tropical Medicine at University of Dublin. Medical Consultant. Mulongo Mission Hospital (Dem Rep Congo). Medical Director Tropical Medical Bureau
-    </td>
-  </tr>
-</table>
-
-&nbsp;
+| **Name** | **Position** |
+| Dr. Vincent Kenny  | Lecturer in Medical Anthropology – LSB -College. Lecturer, Course Co-ordinator / Research Officer – Department of International Health & Tropical Medicine, Royal College of Surgeons in Ireland. |
+| [Andrew Lewis](http://www.rcsi.ie/) | CEO at Tropical Medical Bureau. |
+|  [Dr. Kunal D Patel](http://tcd.academia.edu/KunalPatel) | Medical Director at iheed Institute, Medic, academic and Global Health Advocate. Technical Advisor, Baan Gerda Orphanage, Children’s Rights Foundation |
+| [Prof. Agnus Bell](http://www.tcd.ie/Microbiology/research/a_bell.php) | BSc (Edin.) MA (Dubl.) PhD (Brit. Col.) FTCD – Associate Professor. Department of Microbiology Trinity College Dublin. |
+| [Prof. Dr. Richard Lucius](http://www.hip.hu-berlin.de/persons/lucius-prof-dr-richard/) | Department of Molecular Parasitology, Institute of Biology Humboldt-University. |
+| Dr. Graham Fry |  Lecturer in Clinical Tropical Medicine at University of Dublin. Medical Consultant. Mulongo Mission Hospital (Dem Rep Congo). Medical Director Tropical Medical Bureau |
