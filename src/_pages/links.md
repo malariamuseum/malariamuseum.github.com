@@ -4,9 +4,7 @@ date: 2010-01-25T19:53:23+00:00
 author: Marco Herbst
 layout: single
 ---
-**
-  
-Further Learning**
+**Further Learning**
 
  ![]({{ base }}/assets/images/uploads/2010/01/faviconmalariajournal.ico)<a href="http://www.malariajournal.com" rel="nofollow" target="_blank">The Malaria Journal</a>
 
@@ -18,9 +16,7 @@ Further Learning**
 
  ![]({{ base }}/assets/images/uploads/2010/01/faviconeconomist.ico)<a href="http://www.economist.com/topics/malaria" target="_blank">The Economist &#8211; Focus on Malaria</a>
 
-**
-  
-Malaria NGOs**
+**Malaria NGOs**
 
  ![]({{ base }}/assets/images/uploads/2010/01/faviconmalarianomore.ico)<a href="http://www.malarianomore.org" rel="nofollow" target="_blank">Malaria No More</a>
 
@@ -32,9 +28,7 @@ Malaria NGOs**
 
  ![]({{ base }}/assets/images/uploads/2010/01/favicon.ico "Nothing but Nets")<a href="http://www.nothingbutnets.net/" target="_blank">Nothing but Nets</a>
 
-**
-  
-Inspiration drawn from**
+**Inspiration drawn from**
 
  ![]({{ base }}/assets/images/uploads/2010/01/faviconbibliotecanacional.ico)<a href="http://www.bne.es/es/Actividades/Exposiciones/Docs_Malaria/Visitavirtual/multimedia_2009_mix.html" rel="nofollow" target="_blank">Biblioteca Nacional Espana &#8211; Temporary Malaria Exhibition</a>
 
@@ -54,27 +48,27 @@ Inspiration drawn from**
 
 **Pharmaceutical Companies working on Malaria**
 
-[<img class="alignnone size-full wp-image-1005" title="bayericon" src="{{ base }}/assets/images/uploads/2010/01/bayericon2.ico" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/bayericon2.ico) <a title="Bayer - The Enemy Called Malaria" href="http://www.bayer.com/en/Malaria.aspx" target="_blank">Bayer &#8211; The Enemy Called Malaria</a>
+![]({{ base }}/assets/images/uploads/2010/01/bayericon.ico){:height="16px" width="16px"} <a title="Bayer - The Enemy Called Malaria" href="http://www.bayer.com/en/Malaria.aspx" target="_blank">Bayer &#8211; The Enemy Called Malaria</a>
 
-[<img class="alignnone size-full wp-image-1004" title="Glaxo Smith Kline" src="{{ base }}/assets/images/uploads/2010/01/Glaxo-Smith-Kline1.png" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/Glaxo-Smith-Kline1.png) <a title="Glaxo Smith Kline-The Malaria Challenge" href="http://www.gsk.com/community/malaria/" target="_blank">Glaxo Smith Kline &#8211; The Malaria Challenge</a>
+![]({{ base }}/assets/images/uploads/2010/01/Glaxo-Smith-Kline.png){:height="16px" width="16px"} <a title="Glaxo Smith Kline-The Malaria Challenge" href="http://www.gsk.com/community/malaria/" target="_blank">Glaxo Smith Kline &#8211; The Malaria Challenge</a>
 
-[<img class="alignnone size-full wp-image-1002" title="Pfizer" src="{{ base }}/assets/images/uploads/2010/01/Pfizer1.ico" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/Pfizer1.ico) <a title="Pfizer- Mobilize Against Malaria" href="http://www.pfizer.com/responsibility/global_health/pfizer_malaria_partnership.jsp" target="_blank">Pfizer &#8211; Mobilize Against Malaria</a>
+![]({{ base }}/assets/images/uploads/2010/01/Pfizer.ico){:height="16px" width="16px"} <a title="Pfizer- Mobilize Against Malaria" href="http://www.pfizer.com/responsibility/global_health/pfizer_malaria_partnership.jsp" target="_blank">Pfizer &#8211; Mobilize Against Malaria</a>
 
-[<img class="alignnone size-full wp-image-1001" title="basf" src="{{ base }}/assets/images/uploads/2010/01/basf1.png" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/basf1.png) <a title="BASF- NEXT-GENERATION MALARIA CONTROL" href="http://www.basf.com/group/pressrelease/P-10-241" target="_blank">BASF &#8211; Next-Generation Malaria Control</a>
+![]({{ base }}/assets/images/uploads/2010/01/basf.png){:height="16px" width="16px"} <a title="BASF- NEXT-GENERATION MALARIA CONTROL" href="http://www.basf.com/group/pressrelease/P-10-241" target="_blank">BASF &#8211; Next-Generation Malaria Control</a>
 
-[<img class="alignnone size-full wp-image-1000" title="ROCHE" src="{{ base }}/assets/images/uploads/2010/01/ROCHE1.gif" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/ROCHE1.gif) <a title="Roche" href="http://www.roche.com/products/product-details.htm?type=product&id=79" target="_blank">Roche &#8211; Producers of Larium (Mefloquine)</a>
+![]({{ base }}/assets/images/uploads/2010/01/ROCHE.gif){:height="16px" width="16px"} <a title="Roche" href="http://www.roche.com/products/product-details.htm?type=product&id=79" target="_blank">Roche &#8211; Producers of Larium (Mefloquine)</a>
 
-[<img class="alignnone size-full wp-image-999" title="Eisai" src="{{ base }}/assets/images/uploads/2010/01/Eisai1.png" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/Eisai1.png) <a title="Eisai-working together to fight malaria with new medicines" href="http://www.eisai.com/company/atm/activities/03.html" target="_blank">Eisai &#8211; Working Together To Fight Malaria With New Medicines</a>
+![]({{ base }}/assets/images/uploads/2010/01/Eisai.png){:height="16px" width="16px"} <a title="Eisai-working together to fight malaria with new medicines" href="http://www.eisai.com/company/atm/activities/03.html" target="_blank">Eisai &#8211; Working Together To Fight Malaria With New Medicines</a>
 
-[<img class="alignnone size-full wp-image-996" title="Astellas" src="{{ base }}/assets/images/uploads/2010/01/Astellas1.png" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/Astellas1.png) <a title="Astellas - Millennium Development Goals" href="http://www.astellas.com/en/csr/community/millennium.html" target="_blank">Astellas &#8211; Millennium Development Goals</a>
+![]({{ base }}/assets/images/uploads/2010/01/Astellas.png){:height="16px" width="16px"} <a title="Astellas - Millennium Development Goals" href="http://www.astellas.com/en/csr/community/millennium.html" target="_blank">Astellas &#8211; Millennium Development Goals</a>
 
-[<img class="alignnone size-full wp-image-993" title="Takeda" src="{{ base }}/assets/images/uploads/2010/01/Takeda1.ico" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/Takeda1.ico) <a title="Takeda - Takeda Initiative" href="http://www.takeda.com/access/activity/initiative/" target="_blank">Takeda &#8211; Takeda Initiative</a>
+![]({{ base }}/assets/images/uploads/2010/01/Takeda.ico){:height="16px" width="16px"} <a title="Takeda - Takeda Initiative" href="http://www.takeda.com/access/activity/initiative/" target="_blank">Takeda &#8211; Takeda Initiative</a>
 
-[<img class="alignnone size-full wp-image-995" title="Astrazeneca" src="{{ base }}/assets/images/uploads/2010/01/Astrazeneca1.png" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/Astrazeneca1.png) <a title="AstraZeneca" href="http://www.astrazeneca.com/Media/Press-releases/Article/AstraZeneca-and-MMV-Join-Efforts-in-the-Fight-Against-Malaria" target="_blank">AstraZeneca</a>
+![]({{ base }}/assets/images/uploads/2010/01/Astrazeneca.png){:height="16px" width="16px"} <a title="AstraZeneca" href="http://www.astrazeneca.com/Media/Press-releases/Article/AstraZeneca-and-MMV-Join-Efforts-in-the-Fight-Against-Malaria" target="_blank">AstraZeneca</a>
 
-[<img class="alignnone size-full wp-image-994" title="novartis" src="{{ base }}/assets/images/uploads/2010/01/novartis1.png" alt="" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/novartis1.png) <a title="Novartis-Malaria Initiative" href="http://www.novartis.com/newsroom/feature-stories/2011/04/malaria-initiative-1.shtml" target="_blank">Novartis &#8211; The Novartis Malaria Initiative</a>
+![]({{ base }}/assets/images/uploads/2010/01/novartis.png){:height="16px" width="16px"} <a title="Novartis-Malaria Initiative" href="http://www.novartis.com/newsroom/feature-stories/2011/04/malaria-initiative-1.shtml" target="_blank">Novartis &#8211; The Novartis Malaria Initiative</a>
 
-[<img class="alignnone size-full wp-image-1010" title="Sanofi-Malaria" src="{{ base }}/assets/images/uploads/2010/01/sanofi2.png" alt="Sanofi-Malaria" width="16" height="16" />]({{ base }}/assets/images/uploads/2010/01/sanofi2.png)<a title="Sanofi-Aventis Impact Malaria" href="http://en.impact-malaria.com/iml/cx/en/index.jsp" target="_blank">Sanofi-Aventis &#8211; Impact Malaria</a>
+![]({{ base }}/assets/images/uploads/2010/01/Sanofi.png){:height="16px" width="16px"} <a title="Sanofi-Aventis Impact Malaria" href="http://en.impact-malaria.com/iml/cx/en/index.jsp" target="_blank">Sanofi-Aventis &#8211; Impact Malaria</a>
 
 &nbsp;
 
