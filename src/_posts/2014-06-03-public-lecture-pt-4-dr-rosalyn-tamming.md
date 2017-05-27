@@ -10,7 +10,7 @@ categories:
 ---
 Public Lecture &#8211; Pt 4 &#8211; Dr. Rosalyn Tamming, &#8220;Plant and pills – weapons in the armoury against malaria.&#8221;
 
-[<img class="alignnone  wp-image-4411" src="http://malariamuseum.com/assets/images/uploads/2014/06/CONCERN_talk_FB_2-300x175.png" alt="CONCERN_talk_FB_2" width="624" height="364" srcset="http://malariamuseum.com/assets/images/uploads/2014/06/CONCERN_talk_FB_2-300x175.png 300w, http://malariamuseum.com/assets/images/uploads/2014/06/CONCERN_talk_FB_2.png 960w" sizes="(max-width: 624px) 100vw, 624px" />](http://malariamuseum.com/assets/images/uploads/2014/06/CONCERN_talk_FB_2.png)
+![]({{ base }}/assets/images/uploads/2014/06/CONCERN_talk_FB_2.png)
 
 <p style="color: #333333;">
   We are delighted to host a talk given by <b>Dr. Rosalyn Tamming </b>of<b> CONCERN Worldwide </b>who will discuss<b> <a style="color: #1155cc;" href="https://www.facebook.com/events/1431265650469235/?notif_t=plan_user_joined" target="_blank">&#8220;Plants and Pills &#8211; weapons in the armoury against malaria&#8221;.</a> </b>
