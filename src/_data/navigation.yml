@@ -2,6 +2,16 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Donate"
+    url: /donations/
+  - title: "Dublin Pop-Up"
+    url: /exhibits-themes/
+  - title: "Links"
+    url: /links/
+  - title: "Pop-Up Exhibition"
+    url: /shop/
   - title: "Posts By Year"
     url: /year-archive/
   - title: "Categories"
